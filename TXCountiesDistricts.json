@@ -7,9 +7,12 @@
 			"lsad": "County",
 			"censusArea": 787.459,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["012",
-				"506"]
+				"number": "012",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "506",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -1021,9 +1024,12 @@
 			"lsad": "County",
 			"censusArea": 1004.683,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["064",
-				"242"]
+				"number": "064",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "242",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -1133,8 +1139,8 @@
 			"lsad": "County",
 			"censusArea": 883.492,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["100"]
+				"number": "100",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -1234,9 +1240,12 @@
 			"lsad": "County",
 			"censusArea": 890.567,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["088",
-				"356"]
+				"number": "088",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "356",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -2418,66 +2427,240 @@
 			"lsad": "County",
 			"censusArea": 1703.478,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["011",
-				"055",
-				"061",
-				"080",
-				"113",
-				"125",
-				"127",
-				"129",
-				"133",
-				"151",
-				"152",
-				"157",
-				"164",
-				"165",
-				"174",
-				"176",
-				"177",
-				"178",
-				"179",
-				"180",
-				"182",
-				"183",
-				"184",
-				"185",
-				"189",
-				"190",
-				"208",
-				"209",
-				"215",
-				"228",
-				"230",
-				"232",
-				"234",
-				"245",
-				"246",
-				"247",
-				"248",
-				"257",
-				"262",
-				"263",
-				"269",
-				"270",
-				"280",
-				"281",
-				"295",
-				"308",
-				"309",
-				"310",
-				"311",
-				"312",
-				"313",
-				"314",
-				"315",
-				"333",
-				"334",
-				"337",
-				"338",
-				"339",
-				"351"]
+				"number": "011",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "055",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "061",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "080",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "113",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "125",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "127",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "129",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "133",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "151",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "152",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "157",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "164",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "165",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "174",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "176",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "177",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "178",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "179",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "180",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "182",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "183",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "184",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "185",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "189",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "190",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "208",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "209",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "215",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "228",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "230",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "232",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "234",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "245",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "246",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "247",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "248",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "257",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "262",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "263",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "269",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "270",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "280",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "281",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "295",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "308",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "309",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "310",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "311",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "312",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "313",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "314",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "315",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "333",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "334",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "337",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "338",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "339",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "351",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -4543,8 +4726,8 @@
 			"lsad": "County",
 			"censusArea": 899.951,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["071"]
+				"number": "071",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -5496,8 +5679,8 @@
 			"lsad": "County",
 			"censusArea": 906.286,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["031"]
+				"number": "031",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -5581,10 +5764,16 @@
 			"lsad": "County",
 			"censusArea": 873.748,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["003",
-				"173",
-				"392"]
+				"number": "003",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "173",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "392",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -6688,9 +6877,12 @@
 			"lsad": "County",
 			"censusArea": 767.174,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["008",
-				"062"]
+				"number": "008",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "062",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -7630,9 +7822,12 @@
 			"lsad": "County",
 			"censusArea": 1230.909,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["003",
-				"349"]
+				"number": "003",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "349",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -8898,9 +9093,12 @@
 			"lsad": "County",
 			"censusArea": 887.419,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["084",
-				"316"]
+				"number": "084",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "316",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -8994,9 +9192,12 @@
 			"lsad": "County",
 			"censusArea": 938.845,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["001",
-				"001A"]
+				"number": "001",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "001A",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -10532,8 +10733,8 @@
 			"lsad": "County",
 			"censusArea": 2264.555,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["394"]
+				"number": "394",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -10607,8 +10808,8 @@
 			"lsad": "County",
 			"censusArea": 1458.329,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["105"]
+				"number": "105",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -11248,8 +11449,8 @@
 			"lsad": "County",
 			"censusArea": 902.507,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["039"]
+				"number": "039",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -11353,8 +11554,8 @@
 			"lsad": "County",
 			"censusArea": 910.872,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["050"]
+				"number": "050",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -11418,8 +11619,8 @@
 			"lsad": "County",
 			"censusArea": 881.308,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["105"]
+				"number": "105",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -12105,9 +12306,12 @@
 			"lsad": "County",
 			"censusArea": 907.19,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["006",
-				"062"]
+				"number": "006",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "062",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -13099,9 +13303,12 @@
 			"lsad": "County",
 			"censusArea": 629.016,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["021",
-				"335"]
+				"number": "021",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "335",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -13905,10 +14112,16 @@
 			"lsad": "County",
 			"censusArea": 1073.151,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["012",
-				"087",
-				"278"]
+				"number": "012",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "087",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "278",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -15218,8 +15431,8 @@
 			"lsad": "County",
 			"censusArea": 932.179,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["031"]
+				"number": "031",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -15333,8 +15546,8 @@
 			"lsad": "County",
 			"censusArea": 668.925,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["143"]
+				"number": "143",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -15944,12 +16157,18 @@
 			"lsad": "County",
 			"censusArea": 1139.426,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["036",
-				"156",
-				"343"]
-			}
-			]},
+				"number": "036",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "156",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "343",
+				"effective": "2012-01-01"
+			}]
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [[[-98.610824,
@@ -16031,9 +16250,12 @@
 			"lsad": "County",
 			"censusArea": 466.065,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["012",
-				"278"]
+				"number": "012",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "278",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -16947,9 +17169,12 @@
 			"lsad": "County",
 			"censusArea": 1100.276,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["023",
-				"130"]
+				"number": "023",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "130",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -17723,8 +17948,8 @@
 			"lsad": "County",
 			"censusArea": 902.03,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["198"]
+				"number": "198",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -17792,8 +18017,8 @@
 			"lsad": "County",
 			"censusArea": 748.261,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["035"]
+				"number": "035",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -18517,14 +18742,32 @@
 			"lsad": "County",
 			"censusArea": 1041.735,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["009",
-				"221",
-				"284",
-				"359",
-				"410",
-				"418",
-				"435"]
+				"number": "009",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "221",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "284",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "359",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "410",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "418",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "435",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -19472,8 +19715,8 @@
 			"lsad": "County",
 			"censusArea": 899.691,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["069"]
+				"number": "069",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -19567,9 +19810,12 @@
 			"lsad": "County",
 			"censusArea": 251.985,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["076",
-				"276"]
+				"number": "076",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "276",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -20191,9 +20437,12 @@
 			"lsad": "County",
 			"censusArea": 946.537,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["145",
-				"420"]
+				"number": "145",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "420",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -22835,8 +23084,8 @@
 			"lsad": "County",
 			"censusArea": 1009.627,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["013"]
+				"number": "013",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -23522,15 +23771,36 @@
 			"lsad": "County",
 			"censusArea": 838.482,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["028",
-				"094",
-				"105",
-				"117",
-				"148",
-				"214",
-				"319",
-				"347"]
+				"number": "028",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "094",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "105",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "117",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "148",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "214",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "319",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "347",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -24768,8 +25038,8 @@
 			"lsad": "County",
 			"censusArea": 958.864,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["066"]
+				"number": "066",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -25277,8 +25547,8 @@
 			"lsad": "County",
 			"censusArea": 908.392,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["286"]
+				"number": "286",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -25392,8 +25662,8 @@
 			"lsad": "County",
 			"censusArea": 420.641,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["355"]
+				"number": "355",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -25551,8 +25821,8 @@
 			"lsad": "County",
 			"censusArea": 900.791,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["118"]
+				"number": "118",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -25638,9 +25908,12 @@
 			"lsad": "County",
 			"censusArea": 4570.983,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["205",
-				"394"]
+				"number": "205",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "394",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -25992,9 +26265,12 @@
 			"lsad": "County",
 			"censusArea": 840.318,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["196",
-				"354"]
+				"number": "196",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "354",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -26320,8 +26596,8 @@
 			"lsad": "County",
 			"censusArea": 1051.563,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["051"]
+				"number": "051",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -26391,8 +26667,8 @@
 			"lsad": "County",
 			"censusArea": 910.662,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["271"]
+				"number": "271",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -26504,9 +26780,12 @@
 			"lsad": "County",
 			"censusArea": 903.478,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["043",
-				"415"]
+				"number": "043",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "415",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -26758,9 +27037,12 @@
 			"lsad": "County",
 			"censusArea": 4763.847,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["083",
-				"112"]
+				"number": "083",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "112",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -28948,9 +29230,12 @@
 			"lsad": "County",
 			"censusArea": 1057.093,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["258",
-				"411"]
+				"number": "258",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "411",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -29866,9 +30151,12 @@
 			"lsad": "County",
 			"censusArea": 229.452,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["008",
-				"354"]
+				"number": "008",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "354",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -30502,8 +30790,8 @@
 			"lsad": "County",
 			"censusArea": 1175.301,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["112"]
+				"number": "112",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -30565,9 +30853,12 @@
 			"lsad": "County",
 			"censusArea": 1036.578,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["006",
-				"102"]
+				"number": "006",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "102",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -31817,10 +32108,16 @@
 			"lsad": "County",
 			"censusArea": 770.444,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["024",
-				"135",
-				"267"]
+				"number": "024",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "135",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "267",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -33066,9 +33363,12 @@
 			"lsad": "County",
 			"censusArea": 530.657,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["001",
-				"273"]
+				"number": "001",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "273",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -34424,9 +34724,12 @@
 			"lsad": "County",
 			"censusArea": 569.243,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["258",
-				"411"]
+				"number": "258",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "411",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -35226,10 +35529,16 @@
 			"lsad": "County",
 			"censusArea": 693.451,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["036",
-				"156",
-				"343"]
+				"number": "036",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "156",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "343",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -36629,9 +36938,12 @@
 			"lsad": "County",
 			"censusArea": 1135.297,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["033",
-				"424"]
+				"number": "033",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "424",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -37747,9 +38059,12 @@
 			"lsad": "County",
 			"censusArea": 795.583,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["123",
-				"273"]
+				"number": "123",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "273",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -38481,11 +38796,20 @@
 			"lsad": "County",
 			"censusArea": 921.454,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["007",
-				"114",
-				"241",
-				"321"]
+				"number": "007",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "114",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "241",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "321",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -39863,9 +40187,12 @@
 			"lsad": "County",
 			"censusArea": 186.463,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["018",
-				"249"]
+				"number": "018",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "249",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -39979,8 +40306,8 @@
 			"lsad": "County",
 			"censusArea": 1453.926,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["112"]
+				"number": "112",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -40050,9 +40377,12 @@
 			"lsad": "County",
 			"censusArea": 2358.026,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["063",
-				"083"]
+				"number": "063",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "083",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -40802,8 +41132,8 @@
 			"lsad": "County",
 			"censusArea": 912.552,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["039"]
+				"number": "039",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -40893,24 +41223,72 @@
 			"lsad": "County",
 			"censusArea": 990.202,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["053",
-				"098",
-				"126",
-				"147",
-				"167",
-				"200",
-				"201",
-				"250",
-				"261",
-				"299",
-				"331",
-				"345",
-				"353",
-				"390",
-				"403",
-				"419",
-				"427"]
+				"number": "053",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "098",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "126",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "147",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "167",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "200",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "201",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "250",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "261",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "299",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "331",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "345",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "353",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "390",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "403",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "419",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "427",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -41654,9 +42032,12 @@
 			"lsad": "County",
 			"censusArea": 693.608,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["258",
-				"411"]
+				"number": "258",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "411",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -42400,9 +42781,12 @@
 			"lsad": "County",
 			"censusArea": 924.501,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["001A",
-				"088"]
+				"number": "001A",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "088",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -43546,8 +43930,8 @@
 			"lsad": "County",
 			"censusArea": 842.557,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["294"]
+				"number": "294",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -44379,11 +44763,20 @@
 			"lsad": "County",
 			"censusArea": 882.143,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["024",
-				"135",
-				"267",
-				"377"]
+				"number": "024",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "135",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "267",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "377",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -45687,9 +46080,12 @@
 			"lsad": "County",
 			"censusArea": 513.43,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["155",
-				"506"]
+				"number": "155",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "506",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -46623,8 +47019,8 @@
 			"lsad": "County",
 			"censusArea": 835.602,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["143"]
+				"number": "143",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -47988,9 +48384,12 @@
 			"lsad": "County",
 			"censusArea": 1086.15,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["023",
-				"329"]
+				"number": "023",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "329",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -48658,12 +49057,24 @@
 			"lsad": "County",
 			"censusArea": 1118.303,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["026",
-				"277",
-				"368",
-				"395",
-				"425"]
+				"number": "026",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "277",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "368",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "395",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "425",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -49275,8 +49686,8 @@
 			"lsad": "County",
 			"censusArea": 841.107,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["109"]
+				"number": "109",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -49354,8 +49765,8 @@
 			"lsad": "County",
 			"censusArea": 645.234,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["402"]
+				"number": "402",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -50247,9 +50658,12 @@
 			"lsad": "County",
 			"censusArea": 1297.406,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["293",
-				"365"]
+				"number": "293",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "365",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -50371,10 +50785,16 @@
 			"lsad": "County",
 			"censusArea": 273.303,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["124",
-				"188",
-				"307"]
+				"number": "124",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "188",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "307",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -50774,8 +51194,8 @@
 			"lsad": "County",
 			"censusArea": 835.914,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["220"]
+				"number": "220",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -50931,8 +51351,8 @@
 			"lsad": "County",
 			"censusArea": 919.81,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["084"]
+				"number": "084",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -51010,8 +51430,8 @@
 			"lsad": "County",
 			"censusArea": 695.114,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["046"]
+				"number": "046",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -51415,8 +51835,8 @@
 			"lsad": "County",
 			"censusArea": 1462.033,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["069"]
+				"number": "069",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -51516,8 +51936,8 @@
 			"lsad": "County",
 			"censusArea": 903.131,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["039"]
+				"number": "039",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -51631,11 +52051,20 @@
 			"lsad": "County",
 			"censusArea": 677.978,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["022",
-				"207",
-				"274",
-				"428"]
+				"number": "022",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "207",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "274",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "428",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -51983,18 +52412,48 @@
 			"lsad": "County",
 			"censusArea": 1570.865,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["092",
-				"093",
-				"139",
-				"206",
-				"275",
-				"332",
-				"370",
-				"389",
-				"398",
-				"430",
-				"449"]
+				"number": "092",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "093",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "139",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "206",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "275",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "332",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "370",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "389",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "398",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "430",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "449",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -52372,11 +52831,20 @@
 			"lsad": "County",
 			"censusArea": 1062.602,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["003",
-				"087",
-				"349",
-				"369"]
+				"number": "003",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "087",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "349",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "369",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -54206,8 +54674,8 @@
 			"lsad": "County",
 			"censusArea": 1500.713,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["109"]
+				"number": "109",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -54279,9 +54747,12 @@
 			"lsad": "County",
 			"censusArea": 797.778,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["159",
-				"217"]
+				"number": "159",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "217",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -56509,10 +56980,16 @@
 			"lsad": "County",
 			"censusArea": 252.074,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["036",
-				"156",
-				"343"]
+				"number": "036",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "156",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "343",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -57558,8 +58035,8 @@
 			"lsad": "County",
 			"censusArea": 909.109,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["047"]
+				"number": "047",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -57657,8 +58134,8 @@
 			"lsad": "County",
 			"censusArea": 646.508,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["155"]
+				"number": "155",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -58832,8 +59309,8 @@
 			"lsad": "County",
 			"censusArea": 867.482,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["050"]
+				"number": "050",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -58907,10 +59384,16 @@
 			"lsad": "County",
 			"censusArea": 880.239,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["036",
-				"156",
-				"343"]
+				"number": "036",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "156",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "343",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -59584,34 +60067,112 @@
 			"lsad": "County",
 			"censusArea": 1239.82,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["037",
-				"045",
-				"057",
-				"073",
-				"131",
-				"144",
-				"150",
-				"166",
-				"175",
-				"186",
-				"187",
-				"224",
-				"225",
-				"226",
-				"227",
-				"285",
-				"288",
-				"289",
-				"290",
-				"379",
-				"386",
-				"399",
-				"407",
-				"408",
-				"436",
-				"437",
-				"438"]
+				"number": "037",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "045",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "057",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "073",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "131",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "144",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "150",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "166",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "175",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "186",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "187",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "224",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "225",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "226",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "227",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "285",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "288",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "289",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "290",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "379",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "386",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "399",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "407",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "408",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "436",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "437",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "438",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -60685,8 +61246,8 @@
 			"lsad": "County",
 			"censusArea": 982.978,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["220"]
+				"number": "220",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -61296,10 +61857,16 @@
 			"lsad": "County",
 			"censusArea": 885.006,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["005",
-				"102",
-				"202"]
+				"number": "005",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "102",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "202",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -63165,12 +63732,24 @@
 			"lsad": "County",
 			"censusArea": 1357.701,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["023",
-				"149",
-				"239",
-				"300",
-				"412"]
+				"number": "023",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "149",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "239",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "300",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "412",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -64324,10 +64903,16 @@
 			"lsad": "County",
 			"censusArea": 585.445,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["085",
-				"272",
-				"361"]
+				"number": "085",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "272",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "361",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -66041,9 +66626,12 @@
 			"lsad": "County",
 			"censusArea": 659.026,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["021",
-				"335"]
+				"number": "021",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "335",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -67435,10 +68023,16 @@
 			"lsad": "County",
 			"censusArea": 545.257,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["022",
-				"207",
-				"421"]
+				"number": "022",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "207",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "421",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -68260,10 +68854,16 @@
 			"lsad": "County",
 			"censusArea": 506.84,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["024",
-				"135",
-				"267"]
+				"number": "024",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "135",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "267",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -69091,9 +69691,12 @@
 			"lsad": "County",
 			"censusArea": 195.826,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["076",
-				"276"]
+				"number": "076",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "276",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -69777,8 +70380,8 @@
 			"lsad": "County",
 			"censusArea": 936.963,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["005"]
+				"number": "005",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -70900,9 +71503,12 @@
 			"lsad": "County",
 			"censusArea": 597.137,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["253",
-				"344"]
+				"number": "253",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "344",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -71710,9 +72316,12 @@
 			"lsad": "County",
 			"censusArea": 1052.913,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["002",
-				"369"]
+				"number": "002",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "369",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -73796,8 +74405,8 @@
 			"lsad": "County",
 			"censusArea": 775.15,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["286"]
+				"number": "286",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -73873,8 +74482,8 @@
 			"lsad": "County",
 			"censusArea": 1261.946,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["042"]
+				"number": "042",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -74496,11 +75105,20 @@
 			"lsad": "County",
 			"censusArea": 559.476,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["022",
-				"207",
-				"274",
-				"433"]
+				"number": "022",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "207",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "274",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "433",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -75106,8 +75724,8 @@
 			"lsad": "County",
 			"censusArea": 900.563,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["050"]
+				"number": "050",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -75217,8 +75835,8 @@
 			"lsad": "County",
 			"censusArea": 785.069,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["109"]
+				"number": "109",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -76062,8 +76680,8 @@
 			"lsad": "County",
 			"censusArea": 2807.327,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["112"]
+				"number": "112",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -77729,39 +78347,132 @@
 			"lsad": "County",
 			"censusArea": 871.279,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["014",
-				"044",
-				"068",
-				"095",
-				"101",
-				"116",
-				"134",
-				"160",
-				"162",
-				"191",
-				"192",
-				"193",
-				"194",
-				"195",
-				"203",
-				"204",
-				"254",
-				"255",
-				"256",
-				"265",
-				"282",
-				"283",
-				"291",
-				"292",
-				"298",
-				"301",
-				"302",
-				"303",
-				"304",
-				"305",
-				"330",
-				"363"]
+				"number": "014",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "044",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "068",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "095",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "101",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "116",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "134",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "160",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "162",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "191",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "192",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "193",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "194",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "195",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "203",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "204",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "254",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "255",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "256",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "265",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "282",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "283",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "291",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "292",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "298",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "301",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "302",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "303",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "304",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "305",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "330",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "363",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -78369,9 +79080,12 @@
 			"lsad": "County",
 			"censusArea": 256.825,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["008",
-				"062"]
+				"number": "008",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "062",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -79951,8 +80665,8 @@
 			"lsad": "County",
 			"censusArea": 901.724,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["110"]
+				"number": "110",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -80010,9 +80724,12 @@
 			"lsad": "County",
 			"censusArea": 1328.884,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["293",
-				"365"]
+				"number": "293",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "365",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -80094,11 +80811,20 @@
 			"lsad": "County",
 			"censusArea": 897.687,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["070",
-				"161",
-				"244",
-				"358"]
+				"number": "070",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "161",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "244",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "358",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -80172,8 +80898,8 @@
 			"lsad": "County",
 			"censusArea": 992.143,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["110"]
+				"number": "110",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -80273,8 +80999,8 @@
 			"lsad": "County",
 			"censusArea": 704.397,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["046"]
+				"number": "046",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -80938,13 +81664,28 @@
 			"lsad": "County",
 			"censusArea": 861.481,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["240",
-				"268",
-				"328",
-				"387",
-				"400",
-				"434"]
+				"number": "240",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "268",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "328",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "387",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "400",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "434",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -82112,9 +82853,12 @@
 			"lsad": "County",
 			"censusArea": 877.739,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["077",
-				"087"]
+				"number": "077",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "087",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -82892,13 +83636,28 @@
 			"lsad": "County",
 			"censusArea": 378.358,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["010",
-				"056",
-				"122",
-				"212",
-				"306",
-				"405"]
+				"number": "010",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "056",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "122",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "212",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "306",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "405",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -83912,8 +84671,8 @@
 			"lsad": "County",
 			"censusArea": 900.218,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["118"]
+				"number": "118",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -83963,10 +84722,16 @@
 			"lsad": "County",
 			"censusArea": 852.014,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["024",
-				"135",
-				"267"]
+				"number": "024",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "135",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "267",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -84848,8 +85613,8 @@
 			"lsad": "County",
 			"censusArea": 891.867,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["106"]
+				"number": "106",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -84985,10 +85750,9 @@
 			"lsad": "County",
 			"censusArea": 1065.598,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["198"]
-			}
-			]
+				"number": "198",
+				"effective": "2012-01-01"
+			}]
 		},
 		"geometry": {
 			"type": "Polygon",
@@ -85537,14 +86301,25 @@
 			"lsad": "County",
 			"censusArea": 1037.101,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["019",
-				"054",
-				"074",
-				"170",
-				"414"]
-			}
-			]
+				"number": "019",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "054",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "074",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "170",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "414",
+				"effective": "2012-01-01"
+			}]
 		},
 		"geometry": {
 			"type": "Polygon",
@@ -85781,9 +86556,12 @@
 			"lsad": "County",
 			"censusArea": 380.88,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["115",
-				"276"]
+				"number": "115",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "276",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -86361,8 +87139,8 @@
 			"lsad": "County",
 			"censusArea": 914.944,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["118"]
+				"number": "118",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -86450,8 +87228,8 @@
 			"lsad": "County",
 			"censusArea": 928.803,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["198"]
+				"number": "198",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -86551,9 +87329,12 @@
 			"lsad": "County",
 			"censusArea": 1279.258,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["293",
-				"365"]
+				"number": "293",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "365",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -86821,10 +87602,16 @@
 			"lsad": "County",
 			"censusArea": 829.435,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["024",
-				"135",
-				"267"]
+				"number": "024",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "135",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "267",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -87372,14 +88159,32 @@
 			"lsad": "County",
 			"censusArea": 876.295,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["058",
-				"060",
-				"136",
-				"172",
-				"252",
-				"279",
-				"317"]
+				"number": "058",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "060",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "136",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "172",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "252",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "279",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "317",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -88295,8 +89100,8 @@
 			"lsad": "County",
 			"censusArea": 1136.138,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["229"]
+				"number": "229",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -88454,8 +89259,8 @@
 			"lsad": "County",
 			"censusArea": 864.966,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["079"]
+				"number": "079",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -88743,10 +89548,16 @@
 			"lsad": "County",
 			"censusArea": 724.692,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["018",
-				"249",
-				"413"]
+				"number": "018",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "249",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "413",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -89114,8 +89925,8 @@
 			"lsad": "County",
 			"censusArea": 928.554,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["259"]
+				"number": "259",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -89311,9 +90122,12 @@
 			"lsad": "County",
 			"censusArea": 747.556,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["081",
-				"218"]
+				"number": "081",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "218",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -89537,9 +90351,12 @@
 			"lsad": "County",
 			"censusArea": 780.699,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["086",
-				"422"]
+				"number": "086",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "422",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -90049,8 +90866,8 @@
 			"lsad": "County",
 			"censusArea": 662.453,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["216"]
+				"number": "216",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -90280,9 +91097,12 @@
 			"lsad": "County",
 			"censusArea": 1103.318,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["198",
-				"216"]
+				"number": "198",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "216",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -90412,8 +91232,8 @@
 			"lsad": "County",
 			"censusArea": 1250.987,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["198"]
+				"number": "198",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -90501,8 +91321,8 @@
 			"lsad": "County",
 			"censusArea": 1360.055,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["063"]
+				"number": "063",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -90776,8 +91596,8 @@
 			"lsad": "County",
 			"censusArea": 850.621,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["050"]
+				"number": "050",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -91251,8 +92071,8 @@
 			"lsad": "County",
 			"censusArea": 1016.181,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["154"]
+				"number": "154",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -91360,8 +92180,8 @@
 			"lsad": "County",
 			"censusArea": 712.84,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["027"]
+				"number": "027",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -91755,9 +92575,12 @@
 			"lsad": "County",
 			"censusArea": 1486.691,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["081",
-				"218"]
+				"number": "081",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "218",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -91861,8 +92684,8 @@
 			"lsad": "County",
 			"censusArea": 969.708,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["025"]
+				"number": "025",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -92054,9 +92877,12 @@
 			"lsad": "County",
 			"censusArea": 1158.417,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["075",
-				"253"]
+				"number": "075",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "253",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -92372,9 +93198,12 @@
 			"lsad": "County",
 			"censusArea": 905.288,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["077",
-				"087"]
+				"number": "077",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "087",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -92536,10 +93365,16 @@
 			"lsad": "County",
 			"censusArea": 1039.696,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["036",
-				"156",
-				"343"]
+				"number": "036",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "156",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "343",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -92737,9 +93572,12 @@
 			"lsad": "County",
 			"censusArea": 934.034,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["033",
-				"424"]
+				"number": "033",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "424",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -93163,13 +94001,28 @@
 			"lsad": "County",
 			"censusArea": 895.599,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["072",
-				"099",
-				"137",
-				"140",
-				"237",
-				"364"]
+				"number": "072",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "099",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "137",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "140",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "237",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "364",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -93305,9 +94158,12 @@
 			"lsad": "County",
 			"censusArea": 491.39,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["001",
-				"273"]
+				"number": "001",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "273",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -93765,8 +94621,8 @@
 			"lsad": "County",
 			"censusArea": 1310.63,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["051"]
+				"number": "051",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -93826,8 +94682,8 @@
 			"lsad": "County",
 			"censusArea": 905.444,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["132"]
+				"number": "132",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -93931,8 +94787,8 @@
 			"lsad": "County",
 			"censusArea": 914.286,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["259"]
+				"number": "259",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -94060,8 +94916,8 @@
 			"lsad": "County",
 			"censusArea": 923.035,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["069"]
+				"number": "069",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -94173,9 +95029,12 @@
 			"lsad": "County",
 			"censusArea": 1223.179,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["229",
-				"381"]
+				"number": "229",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "381",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -94461,8 +95320,8 @@
 			"lsad": "County",
 			"censusArea": 896.719,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["090"]
+				"number": "090",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -94580,8 +95439,8 @@
 			"lsad": "County",
 			"censusArea": 923.451,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["051"]
+				"number": "051",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -94667,8 +95526,8 @@
 			"lsad": "County",
 			"censusArea": 916.313,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["039"]
+				"number": "039",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -94766,9 +95625,12 @@
 			"lsad": "County",
 			"censusArea": 890.159,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["064",
-				"242"]
+				"number": "064",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "242",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -94866,8 +95728,8 @@
 			"lsad": "County",
 			"censusArea": 1325.356,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["038"]
+				"number": "038",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -95137,12 +95999,24 @@
 			"lsad": "County",
 			"censusArea": 900.299,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["142",
-				"238",
-				"318",
-				"385",
-				"441"]
+				"number": "142",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "238",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "318",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "385",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "441",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -95216,8 +96090,8 @@
 			"lsad": "County",
 			"censusArea": 1016.93,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["020"]
+				"number": "020",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -95713,8 +96587,8 @@
 			"lsad": "County",
 			"censusArea": 911.09,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["032"]
+				"number": "032",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -95832,8 +96706,8 @@
 			"lsad": "County",
 			"censusArea": 930.906,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["097"]
+				"number": "097",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -96083,8 +96957,8 @@
 			"lsad": "County",
 			"censusArea": 989.562,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["110"]
+				"number": "110",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -96160,9 +97034,12 @@
 			"lsad": "County",
 			"censusArea": 933.677,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["001",
-				"001A"]
+				"number": "001",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "001A",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -96572,8 +97449,8 @@
 			"lsad": "County",
 			"censusArea": 911.997,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["032"]
+				"number": "032",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -96687,8 +97564,8 @@
 			"lsad": "County",
 			"censusArea": 917.627,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["084"]
+				"number": "084",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -96810,8 +97687,8 @@
 			"lsad": "County",
 			"censusArea": 1500.533,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["222"]
+				"number": "222",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -96889,10 +97766,16 @@
 			"lsad": "County",
 			"censusArea": 333.669,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["128",
-				"163",
-				"260"]
+				"number": "128",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "163",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "260",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -97440,8 +98323,8 @@
 			"lsad": "County",
 			"censusArea": 951.791,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["029"]
+				"number": "029",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -97607,8 +98490,8 @@
 			"lsad": "County",
 			"censusArea": 801.749,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["123"]
+				"number": "123",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -98022,8 +98905,8 @@
 			"lsad": "County",
 			"censusArea": 880.778,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["287"]
+				"number": "287",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -98147,12 +99030,24 @@
 			"lsad": "County",
 			"censusArea": 908.37,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["047",
-				"108",
-				"181",
-				"251",
-				"320"]
+				"number": "047",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "108",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "181",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "251",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "320",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -98296,8 +99191,8 @@
 			"lsad": "County",
 			"censusArea": 3855.237,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["394"]
+				"number": "394",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -98635,10 +99530,16 @@
 			"lsad": "County",
 			"censusArea": 911.544,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["047",
-				"181",
-				"251"]
+				"number": "047",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "181",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "251",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -98800,8 +99701,8 @@
 			"lsad": "County",
 			"censusArea": 699.195,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["038"]
+				"number": "038",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -99165,8 +100066,8 @@
 			"lsad": "County",
 			"censusArea": 924.058,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["031"]
+				"number": "031",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -99256,9 +100157,12 @@
 			"lsad": "County",
 			"censusArea": 127.036,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["382",
-				"439"]
+				"number": "382",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "439",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -99464,8 +100368,8 @@
 			"lsad": "County",
 			"censusArea": 1050.945,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["119"]
+				"number": "119",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -99561,8 +100465,8 @@
 			"lsad": "County",
 			"censusArea": 924.027,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["004"]
+				"number": "004",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -100120,30 +101024,96 @@
 			"lsad": "County",
 			"censusArea": 863.608,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["017",
-				"048",
-				"067",
-				"096",
-				"141",
-				"153",
-				"213",
-				"231",
-				"233",
-				"236",
-				"297",
-				"322",
-				"323",
-				"324",
-				"325",
-				"342",
-				"348",
-				"352",
-				"360",
-				"371",
-				"372",
-				"396",
-				"432"]
+				"number": "017",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "048",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "067",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "096",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "141",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "153",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "213",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "231",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "233",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "236",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "297",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "322",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "323",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "324",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "325",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "342",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "348",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "352",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "360",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "371",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "372",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "396",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "432",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -100557,11 +101527,20 @@
 			"lsad": "County",
 			"censusArea": 915.552,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["042",
-				"104",
-				"326",
-				"350"]
+				"number": "042",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "104",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "326",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "350",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -100699,8 +101678,8 @@
 			"lsad": "County",
 			"censusArea": 888.839,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["121"]
+				"number": "121",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -100830,9 +101809,12 @@
 			"lsad": "County",
 			"censusArea": 406.054,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["076",
-				"276"]
+				"number": "076",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "276",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -101788,11 +102770,20 @@
 			"lsad": "County",
 			"censusArea": 1521.972,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["051",
-				"119",
-				"340",
-				"391"]
+				"number": "051",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "119",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "340",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "391",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -101926,8 +102917,8 @@
 			"lsad": "County",
 			"censusArea": 582.947,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["115"]
+				"number": "115",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -102525,8 +103516,8 @@
 			"lsad": "County",
 			"censusArea": 1241.324,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["112"]
+				"number": "112",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -102604,8 +103595,8 @@
 			"lsad": "County",
 			"censusArea": 1551.946,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["038"]
+				"number": "038",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -102735,9 +103726,12 @@
 			"lsad": "County",
 			"censusArea": 3144.75,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["063",
-				"083"]
+				"number": "063",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "083",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -103189,9 +104183,12 @@
 			"lsad": "County",
 			"censusArea": 784.169,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["012",
-				"278"]
+				"number": "012",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "278",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -103735,8 +104732,8 @@
 			"lsad": "County",
 			"censusArea": 904.422,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["271"]
+				"number": "271",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -103954,8 +104951,8 @@
 			"lsad": "County",
 			"censusArea": 799.708,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["121"]
+				"number": "121",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -104055,8 +105052,8 @@
 			"lsad": "County",
 			"censusArea": 914.468,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["090"]
+				"number": "090",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -104164,8 +105161,8 @@
 			"lsad": "County",
 			"censusArea": 998.412,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["049"]
+				"number": "049",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -104359,8 +105356,8 @@
 			"lsad": "County",
 			"censusArea": 903.11,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["097"]
+				"number": "097",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -104494,9 +105491,12 @@
 			"lsad": "County",
 			"censusArea": 1219.544,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["081",
-				"218"]
+				"number": "081",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "218",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -104694,8 +105694,8 @@
 			"lsad": "County",
 			"censusArea": 826.797,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["287"]
+				"number": "287",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -104805,8 +105805,8 @@
 			"lsad": "County",
 			"censusArea": 790.961,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["216"]
+				"number": "216",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -105008,11 +106008,20 @@
 			"lsad": "County",
 			"censusArea": 3361.482,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["049",
-				"111",
-				"341",
-				"406"]
+				"number": "049",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "111",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "341",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "406",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -105444,8 +106453,8 @@
 			"lsad": "County",
 			"censusArea": 914.523,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["031"]
+				"number": "031",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -105541,10 +106550,16 @@
 			"lsad": "County",
 			"censusArea": 627.776,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["030",
-				"078",
-				"089"]
+				"number": "030",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "078",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "089",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -105814,8 +106829,8 @@
 			"lsad": "County",
 			"censusArea": 970.844,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["046"]
+				"number": "046",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -106173,8 +107188,8 @@
 			"lsad": "County",
 			"censusArea": 590.554,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["197"]
+				"number": "197",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -106590,9 +107605,12 @@
 			"lsad": "County",
 			"censusArea": 803.733,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["081",
-				"218"]
+				"number": "081",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "218",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -106830,8 +107848,8 @@
 			"lsad": "County",
 			"censusArea": 874.759,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["235"]
+				"number": "235",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -107231,8 +108249,8 @@
 			"lsad": "County",
 			"censusArea": 1052.066,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["052"]
+				"number": "052",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -107436,8 +108454,8 @@
 			"lsad": "County",
 			"censusArea": 900.198,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["072"]
+				"number": "072",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -107529,9 +108547,12 @@
 			"lsad": "County",
 			"censusArea": 3812.798,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["205",
-				"394"]
+				"number": "205",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "394",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -107635,8 +108656,8 @@
 			"lsad": "County",
 			"censusArea": 1503.259,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["069"]
+				"number": "069",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -107734,8 +108755,8 @@
 			"lsad": "County",
 			"censusArea": 900.306,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["106"]
+				"number": "106",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -107823,8 +108844,8 @@
 			"lsad": "County",
 			"censusArea": 1496.868,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["222"]
+				"number": "222",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -107932,14 +108953,32 @@
 			"lsad": "County",
 			"censusArea": 878.432,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["016",
-				"158",
-				"211",
-				"362",
-				"367",
-				"393",
-				"431"]
+				"number": "016",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "158",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "211",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "362",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "367",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "393",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "431",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -108401,12 +109440,17 @@
 			"lsad": "County",
 			"censusArea": 908.975,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["024",
-				"135",
-				"267"]
-			}
-			]
+				"number": "024",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "135",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "267",
+				"effective": "2012-01-01"
+			}]
 		},
 		"geometry": {
 			"type": "Polygon",
@@ -108619,10 +109663,16 @@
 			"lsad": "County",
 			"censusArea": 888.15,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["021",
-				"335",
-				"423"]
+				"number": "021",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "335",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "423",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -108832,12 +109882,24 @@
 			"lsad": "County",
 			"censusArea": 1051.016,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["027",
-				"146",
-				"169",
-				"264",
-				"426"]
+				"number": "027",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "146",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "169",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "264",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "426",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -109077,9 +110139,12 @@
 			"lsad": "County",
 			"censusArea": 709.251,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["033",
-				"424"]
+				"number": "033",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "424",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -109195,8 +110260,8 @@
 			"lsad": "County",
 			"censusArea": 897.443,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["132"]
+				"number": "132",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -109276,8 +110341,8 @@
 			"lsad": "County",
 			"censusArea": 6183.733,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["394"]
+				"number": "394",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -109729,8 +110794,8 @@
 			"lsad": "County",
 			"censusArea": 900.001,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["110"]
+				"number": "110",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -109822,8 +110887,8 @@
 			"lsad": "County",
 			"censusArea": 943.364,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["079"]
+				"number": "079",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -109945,8 +111010,8 @@
 			"lsad": "County",
 			"censusArea": 944.433,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["035"]
+				"number": "035",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -110266,9 +111331,12 @@
 			"lsad": "County",
 			"censusArea": 994.258,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["033",
-				"424"]
+				"number": "033",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "424",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -110842,8 +111910,8 @@
 			"lsad": "County",
 			"censusArea": 899.372,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["042"]
+				"number": "042",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -110983,8 +112051,8 @@
 			"lsad": "County",
 			"censusArea": 920.22,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["100"]
+				"number": "100",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -111084,9 +112152,12 @@
 			"lsad": "County",
 			"censusArea": 894.434,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["064",
-				"242"]
+				"number": "064",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "242",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -111190,8 +112261,8 @@
 			"lsad": "County",
 			"censusArea": 696.405,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["100"]
+				"number": "100",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -111275,8 +112346,8 @@
 			"lsad": "County",
 			"censusArea": 1088.721,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["097"]
+				"number": "097",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -111636,8 +112707,8 @@
 			"lsad": "County",
 			"censusArea": 911.47,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["051"]
+				"number": "051",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -111737,16 +112808,40 @@
 			"lsad": "County",
 			"censusArea": 841.225,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["199",
-				"219",
-				"296",
-				"366",
-				"380",
-				"401",
-				"416",
-				"417",
-				"429"]
+				"number": "199",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "219",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "296",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "366",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "380",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "401",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "416",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "417",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "429",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -112266,8 +113361,8 @@
 			"lsad": "County",
 			"censusArea": 918.441,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["100"]
+				"number": "100",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -112353,8 +113448,8 @@
 			"lsad": "County",
 			"censusArea": 960.274,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["025"]
+				"number": "025",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -112934,8 +114029,8 @@
 			"lsad": "County",
 			"censusArea": 937.754,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["220"]
+				"number": "220",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -113143,8 +114238,8 @@
 			"lsad": "County",
 			"censusArea": 983.799,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["119"]
+				"number": "119",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -113410,8 +114505,8 @@
 			"lsad": "County",
 			"censusArea": 926.886,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["100"]
+				"number": "100",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -113515,8 +114610,8 @@
 			"lsad": "County",
 			"censusArea": 1793.481,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["229"]
+				"number": "229",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -113672,8 +114767,8 @@
 			"lsad": "County",
 			"censusArea": 926.491,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["091"]
+				"number": "091",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -113861,8 +114956,8 @@
 			"lsad": "County",
 			"censusArea": 2117.858,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["198"]
+				"number": "198",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -114226,23 +115321,68 @@
 			"lsad": "County",
 			"censusArea": 1012.693,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["034",
-				"041",
-				"065",
-				"120",
-				"168",
-				"171",
-				"205",
-				"210",
-				"243",
-				"327",
-				"346",
-				"383",
-				"384",
-				"388",
-				"409",
-				"448"]
+				"number": "034",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "041",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "065",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "120",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "168",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "171",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "205",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "210",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "243",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "327",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "346",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "383",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "384",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "388",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "409",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "448",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -114720,8 +115860,8 @@
 			"lsad": "County",
 			"censusArea": 1083.071,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["266"]
+				"number": "266",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -114931,8 +116071,8 @@
 			"lsad": "County",
 			"censusArea": 765.483,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["082"]
+				"number": "082",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -115090,8 +116230,8 @@
 			"lsad": "County",
 			"censusArea": 890.837,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["336"]
+				"number": "336",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -115493,8 +116633,8 @@
 			"lsad": "County",
 			"censusArea": 950.008,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["155"]
+				"number": "155",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -115706,8 +116846,8 @@
 			"lsad": "County",
 			"censusArea": 898.941,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["032"]
+				"number": "032",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -115829,9 +116969,12 @@
 			"lsad": "County",
 			"censusArea": 284.391,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["008",
-				"062"]
+				"number": "008",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "062",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -116291,9 +117434,12 @@
 			"lsad": "County",
 			"censusArea": 1133.5,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["081",
-				"218"]
+				"number": "081",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "218",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -116409,8 +117555,8 @@
 			"lsad": "County",
 			"censusArea": 1502.375,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["106"]
+				"number": "106",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -116562,8 +117708,8 @@
 			"lsad": "County",
 			"censusArea": 893.412,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["106"]
+				"number": "106",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -116667,8 +117813,8 @@
 			"lsad": "County",
 			"censusArea": 1058.214,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["216"]
+				"number": "216",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -116792,8 +117938,8 @@
 			"lsad": "County",
 			"censusArea": 1066.688,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["025"]
+				"number": "025",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -117017,9 +118163,12 @@
 			"lsad": "County",
 			"censusArea": 925.974,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["031",
-				"223"]
+				"number": "031",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "223",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -117141,10 +118290,16 @@
 			"lsad": "County",
 			"censusArea": 932.804,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["015",
-				"059",
-				"397"]
+				"number": "015",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "059",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "397",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -117626,8 +118781,8 @@
 			"lsad": "County",
 			"censusArea": 855.683,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["082"]
+				"number": "082",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -118667,9 +119822,12 @@
 			"lsad": "County",
 			"censusArea": 603.954,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["021",
-				"335"]
+				"number": "021",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "335",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -119931,9 +121089,12 @@
 			"lsad": "County",
 			"censusArea": 935.487,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["040",
-				"378"]
+				"number": "040",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "378",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -120563,15 +121724,36 @@
 			"lsad": "County",
 			"censusArea": 890.922,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["103",
-				"107",
-				"138",
-				"197",
-				"357",
-				"404",
-				"444",
-				"445"]
+				"number": "103",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "107",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "138",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "197",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "357",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "404",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "444",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "445",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -121319,8 +122501,8 @@
 			"lsad": "County",
 			"censusArea": 2635.375,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["143"]
+				"number": "143",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
@@ -122954,9 +124136,12 @@
 			"lsad": "County",
 			"censusArea": 711.3,
 			"districtCourts": [{
-				"effective": "2012-01-01",
-				"courts": ["025",
-				"274"]
+				"number": "025",
+				"effective": "2012-01-01"
+			},
+			{
+				"number": "274",
+				"effective": "2012-01-01"
 			}]
 		},
 		"geometry": {
