@@ -13,6 +13,34 @@
 			{
 				"number": "506",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -1030,6 +1058,10 @@
 			{
 				"number": "242",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -1141,6 +1173,10 @@
 			"districtCourts": [{
 				"number": "100",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -1246,6 +1282,15 @@
 			{
 				"number": "356",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "9",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "9",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -2661,6 +2706,34 @@
 			{
 				"number": "351",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -4728,6 +4801,10 @@
 			"districtCourts": [{
 				"number": "071",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -5681,6 +5758,10 @@
 			"districtCourts": [{
 				"number": "031",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -5774,6 +5855,15 @@
 			{
 				"number": "392",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -6883,6 +6973,15 @@
 			{
 				"number": "062",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -7828,6 +7927,15 @@
 			{
 				"number": "349",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -9099,6 +9207,10 @@
 			{
 				"number": "316",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -9198,6 +9310,15 @@
 			{
 				"number": "001A",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "9",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "9",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -10735,6 +10856,15 @@
 			"districtCourts": [{
 				"number": "394",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -10810,6 +10940,10 @@
 			"districtCourts": [{
 				"number": "105",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -11451,6 +11585,10 @@
 			"districtCourts": [{
 				"number": "039",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -11556,6 +11694,10 @@
 			"districtCourts": [{
 				"number": "050",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -11621,6 +11763,10 @@
 			"districtCourts": [{
 				"number": "105",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -12312,6 +12458,10 @@
 			{
 				"number": "062",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -13309,6 +13459,10 @@
 			{
 				"number": "335",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -14122,6 +14276,15 @@
 			{
 				"number": "278",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -15433,6 +15596,10 @@
 			"districtCourts": [{
 				"number": "031",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -15548,6 +15715,15 @@
 			"districtCourts": [{
 				"number": "143",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -16167,6 +16343,10 @@
 			{
 				"number": "343",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -16256,6 +16436,15 @@
 			{
 				"number": "278",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -17175,6 +17364,10 @@
 			{
 				"number": "130",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -17950,6 +18143,10 @@
 			"districtCourts": [{
 				"number": "198",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -18019,6 +18216,10 @@
 			"districtCourts": [{
 				"number": "035",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -18768,6 +18969,15 @@
 			{
 				"number": "435",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "9",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "9",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -19717,6 +19927,10 @@
 			"districtCourts": [{
 				"number": "069",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -19816,6 +20030,10 @@
 			{
 				"number": "276",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -20443,6 +20661,15 @@
 			{
 				"number": "420",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -23086,6 +23313,15 @@
 			"districtCourts": [{
 				"number": "013",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -23801,6 +24037,10 @@
 			{
 				"number": "347",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -25040,6 +25280,15 @@
 			"districtCourts": [{
 				"number": "066",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -25549,6 +25798,10 @@
 			"districtCourts": [{
 				"number": "286",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -25664,6 +25917,10 @@
 			"districtCourts": [{
 				"number": "355",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -25823,6 +26080,15 @@
 			"districtCourts": [{
 				"number": "118",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -25914,6 +26180,15 @@
 			{
 				"number": "394",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -26271,6 +26546,19 @@
 			{
 				"number": "354",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "5",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "5",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -26598,6 +26886,10 @@
 			"districtCourts": [{
 				"number": "051",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -26669,6 +26961,10 @@
 			"districtCourts": [{
 				"number": "271",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -26786,6 +27082,10 @@
 			{
 				"number": "415",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -27043,6 +27343,15 @@
 			{
 				"number": "112",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -29236,6 +29545,15 @@
 			{
 				"number": "411",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "9",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "9",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -30157,6 +30475,15 @@
 			{
 				"number": "354",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -30792,6 +31119,15 @@
 			"districtCourts": [{
 				"number": "112",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -30859,6 +31195,10 @@
 			{
 				"number": "102",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -32118,6 +32458,10 @@
 			{
 				"number": "267",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -33369,6 +33713,15 @@
 			{
 				"number": "273",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -34730,6 +35083,15 @@
 			{
 				"number": "411",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "9",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "9",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -35539,6 +35901,10 @@
 			{
 				"number": "343",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -36944,6 +37310,10 @@
 			{
 				"number": "424",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -38065,6 +38435,15 @@
 			{
 				"number": "273",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -38810,6 +39189,15 @@
 			{
 				"number": "321",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -40193,6 +40581,15 @@
 			{
 				"number": "249",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -40308,6 +40705,10 @@
 			"districtCourts": [{
 				"number": "112",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -40383,6 +40784,15 @@
 			{
 				"number": "083",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -41134,6 +41544,15 @@
 			"districtCourts": [{
 				"number": "039",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -41289,6 +41708,10 @@
 			{
 				"number": "427",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -42038,6 +42461,30 @@
 			{
 				"number": "411",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -42787,6 +43234,15 @@
 			{
 				"number": "088",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "9",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "9",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -43932,6 +44388,20 @@
 			"districtCourts": [{
 				"number": "294",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "5",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -44777,6 +45247,10 @@
 			{
 				"number": "377",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -46086,6 +46560,34 @@
 			{
 				"number": "506",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -47021,6 +47523,15 @@
 			"districtCourts": [{
 				"number": "143",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -48390,6 +48901,10 @@
 			{
 				"number": "329",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -49075,6 +49590,10 @@
 			{
 				"number": "425",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -49688,6 +50207,15 @@
 			"districtCourts": [{
 				"number": "109",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -49767,6 +50295,19 @@
 			"districtCourts": [{
 				"number": "402",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -50664,6 +51205,10 @@
 			{
 				"number": "365",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -50795,6 +51340,19 @@
 			{
 				"number": "307",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -51196,6 +51754,15 @@
 			"districtCourts": [{
 				"number": "220",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -51353,6 +51920,10 @@
 			"districtCourts": [{
 				"number": "084",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -51432,6 +52003,10 @@
 			"districtCourts": [{
 				"number": "046",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -51837,6 +52412,10 @@
 			"districtCourts": [{
 				"number": "069",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -51938,6 +52517,15 @@
 			"districtCourts": [{
 				"number": "039",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -52065,6 +52653,10 @@
 			{
 				"number": "428",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -52454,6 +53046,10 @@
 			{
 				"number": "449",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -52845,6 +53441,15 @@
 			{
 				"number": "369",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -54676,6 +55281,15 @@
 			"districtCourts": [{
 				"number": "109",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -54753,6 +55367,15 @@
 			{
 				"number": "217",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "9",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -56990,6 +57613,10 @@
 			{
 				"number": "343",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -58037,6 +58664,10 @@
 			"districtCourts": [{
 				"number": "047",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -58136,6 +58767,34 @@
 			"districtCourts": [{
 				"number": "155",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -59311,6 +59970,15 @@
 			"districtCourts": [{
 				"number": "050",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -59394,6 +60062,10 @@
 			{
 				"number": "343",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -60173,6 +60845,10 @@
 			{
 				"number": "438",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -61248,6 +61924,15 @@
 			"districtCourts": [{
 				"number": "220",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -61867,6 +62552,10 @@
 			{
 				"number": "202",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -63750,6 +64439,34 @@
 			{
 				"number": "412",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -64913,6 +65630,25 @@
 			{
 				"number": "361",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
 			}]
 		},
 		"geometry": {
@@ -66632,6 +67368,30 @@
 			{
 				"number": "335",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -68033,6 +68793,10 @@
 			{
 				"number": "421",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -68864,6 +69628,10 @@
 			{
 				"number": "267",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -69697,6 +70465,10 @@
 			{
 				"number": "276",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -70382,6 +71154,10 @@
 			"districtCourts": [{
 				"number": "005",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -71509,6 +72285,34 @@
 			{
 				"number": "344",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -72322,6 +73126,15 @@
 			{
 				"number": "369",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -74407,6 +75220,10 @@
 			"districtCourts": [{
 				"number": "286",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -74484,6 +75301,15 @@
 			"districtCourts": [{
 				"number": "042",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -75119,6 +75945,10 @@
 			{
 				"number": "433",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -75726,6 +76556,10 @@
 			"districtCourts": [{
 				"number": "050",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -75837,6 +76671,15 @@
 			"districtCourts": [{
 				"number": "109",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -76682,6 +77525,15 @@
 			"districtCourts": [{
 				"number": "112",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -78473,6 +79325,15 @@
 			{
 				"number": "363",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "5",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "5",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -79086,6 +79947,10 @@
 			{
 				"number": "062",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -80667,6 +81532,10 @@
 			"districtCourts": [{
 				"number": "110",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -80730,6 +81599,10 @@
 			{
 				"number": "365",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -80825,6 +81698,15 @@
 			{
 				"number": "358",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -80900,6 +81782,10 @@
 			"districtCourts": [{
 				"number": "110",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -81001,6 +81887,10 @@
 			"districtCourts": [{
 				"number": "046",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -81686,6 +82576,34 @@
 			{
 				"number": "434",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -82859,6 +83777,15 @@
 			{
 				"number": "087",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -83658,6 +84585,34 @@
 			{
 				"number": "405",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -84673,6 +85628,15 @@
 			"districtCourts": [{
 				"number": "118",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -84732,6 +85696,10 @@
 			{
 				"number": "267",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -85615,6 +86583,10 @@
 			"districtCourts": [{
 				"number": "106",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -85752,6 +86724,10 @@
 			"districtCourts": [{
 				"number": "198",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -86319,6 +87295,15 @@
 			{
 				"number": "414",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -86562,6 +87547,10 @@
 			{
 				"number": "276",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -87141,6 +88130,15 @@
 			"districtCourts": [{
 				"number": "118",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -87230,6 +88228,10 @@
 			"districtCourts": [{
 				"number": "198",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -87335,6 +88337,10 @@
 			{
 				"number": "365",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -87612,6 +88618,10 @@
 			{
 				"number": "267",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -88185,6 +89195,15 @@
 			{
 				"number": "317",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "9",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "9",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -89102,6 +90121,10 @@
 			"districtCourts": [{
 				"number": "229",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -89261,6 +90284,10 @@
 			"districtCourts": [{
 				"number": "079",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -89558,6 +90585,15 @@
 			{
 				"number": "413",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -89927,6 +90963,15 @@
 			"districtCourts": [{
 				"number": "259",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -90128,6 +91173,10 @@
 			{
 				"number": "218",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -90357,6 +91406,20 @@
 			{
 				"number": "422",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "5",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "5",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -90868,6 +91931,10 @@
 			"districtCourts": [{
 				"number": "216",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -91103,6 +92170,10 @@
 			{
 				"number": "216",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -91234,6 +92305,10 @@
 			"districtCourts": [{
 				"number": "198",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -91323,6 +92398,10 @@
 			"districtCourts": [{
 				"number": "063",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -91598,6 +92677,15 @@
 			"districtCourts": [{
 				"number": "050",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -92073,6 +93161,10 @@
 			"districtCourts": [{
 				"number": "154",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -92182,6 +93274,10 @@
 			"districtCourts": [{
 				"number": "027",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -92581,7 +93677,8 @@
 			{
 				"number": "218",
 				"effective": "2012-01-01"
-			}]
+			}],
+			"appellateCourts": []
 		},
 		"geometry": {
 			"type": "Polygon",
@@ -92686,6 +93783,10 @@
 			"districtCourts": [{
 				"number": "025",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -92883,6 +93984,15 @@
 			{
 				"number": "253",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "9",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "9",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -93204,6 +94314,15 @@
 			{
 				"number": "087",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -93375,6 +94494,10 @@
 			{
 				"number": "343",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -93578,6 +94701,10 @@
 			{
 				"number": "424",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -94023,6 +95150,10 @@
 			{
 				"number": "364",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -94164,6 +95295,15 @@
 			{
 				"number": "273",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -94623,6 +95763,10 @@
 			"districtCourts": [{
 				"number": "051",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -94684,6 +95828,15 @@
 			"districtCourts": [{
 				"number": "132",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -94789,6 +95942,15 @@
 			"districtCourts": [{
 				"number": "259",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -94918,6 +96080,10 @@
 			"districtCourts": [{
 				"number": "069",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -95035,6 +96201,10 @@
 			{
 				"number": "381",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -95322,6 +96492,15 @@
 			"districtCourts": [{
 				"number": "090",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -95441,6 +96620,10 @@
 			"districtCourts": [{
 				"number": "051",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -95528,6 +96711,15 @@
 			"districtCourts": [{
 				"number": "039",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -95631,6 +96823,10 @@
 			{
 				"number": "242",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -95730,6 +96926,10 @@
 			"districtCourts": [{
 				"number": "038",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -96017,6 +97217,15 @@
 			{
 				"number": "441",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -96092,6 +97301,10 @@
 			"districtCourts": [{
 				"number": "020",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -96589,6 +97802,15 @@
 			"districtCourts": [{
 				"number": "032",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -96708,6 +97930,10 @@
 			"districtCourts": [{
 				"number": "097",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -96959,6 +98185,10 @@
 			"districtCourts": [{
 				"number": "110",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -97040,6 +98270,15 @@
 			{
 				"number": "001A",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "9",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "9",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -97451,6 +98690,15 @@
 			"districtCourts": [{
 				"number": "032",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -97566,6 +98814,10 @@
 			"districtCourts": [{
 				"number": "084",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -97689,6 +98941,10 @@
 			"districtCourts": [{
 				"number": "222",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -97776,6 +99032,15 @@
 			{
 				"number": "260",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "9",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "9",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -98325,6 +99590,15 @@
 			"districtCourts": [{
 				"number": "029",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -98492,6 +99766,15 @@
 			"districtCourts": [{
 				"number": "123",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -98907,6 +100190,10 @@
 			"districtCourts": [{
 				"number": "287",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -99048,6 +100335,10 @@
 			{
 				"number": "320",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -99193,6 +100484,15 @@
 			"districtCourts": [{
 				"number": "394",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -99540,6 +100840,10 @@
 			{
 				"number": "251",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -99703,6 +101007,10 @@
 			"districtCourts": [{
 				"number": "038",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -100068,6 +101376,10 @@
 			"districtCourts": [{
 				"number": "031",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -100163,6 +101475,15 @@
 			{
 				"number": "439",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "5",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "5",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -100370,6 +101691,10 @@
 			"districtCourts": [{
 				"number": "119",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -100467,6 +101792,19 @@
 			"districtCourts": [{
 				"number": "004",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -101114,6 +102452,10 @@
 			{
 				"number": "432",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -101541,6 +102883,15 @@
 			{
 				"number": "350",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -101680,6 +103031,10 @@
 			"districtCourts": [{
 				"number": "121",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -101815,6 +103170,10 @@
 			{
 				"number": "276",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -102784,6 +104143,10 @@
 			{
 				"number": "391",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -102919,6 +104282,19 @@
 			"districtCourts": [{
 				"number": "115",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "12",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -103518,6 +104894,15 @@
 			"districtCourts": [{
 				"number": "112",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -103597,6 +104982,10 @@
 			"districtCourts": [{
 				"number": "038",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -103732,6 +105121,10 @@
 			{
 				"number": "083",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -104189,6 +105582,30 @@
 			{
 				"number": "278",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -104734,6 +106151,10 @@
 			"districtCourts": [{
 				"number": "271",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -104953,6 +106374,10 @@
 			"districtCourts": [{
 				"number": "121",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -105054,6 +106479,10 @@
 			"districtCourts": [{
 				"number": "090",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -105163,6 +106592,10 @@
 			"districtCourts": [{
 				"number": "049",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -105358,6 +106791,10 @@
 			"districtCourts": [{
 				"number": "097",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -105497,6 +106934,10 @@
 			{
 				"number": "218",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -105696,6 +107137,10 @@
 			"districtCourts": [{
 				"number": "287",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -105807,6 +107252,10 @@
 			"districtCourts": [{
 				"number": "216",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -106022,6 +107471,10 @@
 			{
 				"number": "406",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -106455,6 +107908,10 @@
 			"districtCourts": [{
 				"number": "031",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -106560,6 +108017,10 @@
 			{
 				"number": "089",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -106831,6 +108292,10 @@
 			"districtCourts": [{
 				"number": "046",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -107190,6 +108655,10 @@
 			"districtCourts": [{
 				"number": "197",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -107611,6 +109080,10 @@
 			{
 				"number": "218",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -107850,6 +109323,10 @@
 			"districtCourts": [{
 				"number": "235",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -108251,6 +109728,15 @@
 			"districtCourts": [{
 				"number": "052",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -108456,6 +109942,10 @@
 			"districtCourts": [{
 				"number": "072",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -108553,6 +110043,15 @@
 			{
 				"number": "394",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -108658,6 +110157,10 @@
 			"districtCourts": [{
 				"number": "069",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -108757,6 +110260,15 @@
 			"districtCourts": [{
 				"number": "106",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -108846,6 +110358,10 @@
 			"districtCourts": [{
 				"number": "222",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -108979,6 +110495,10 @@
 			{
 				"number": "431",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -109450,6 +110970,10 @@
 			{
 				"number": "267",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -109673,6 +111197,10 @@
 			{
 				"number": "423",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -109900,6 +111428,10 @@
 			{
 				"number": "426",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -110145,6 +111677,10 @@
 			{
 				"number": "424",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -110262,6 +111798,15 @@
 			"districtCourts": [{
 				"number": "132",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -110343,6 +111888,15 @@
 			"districtCourts": [{
 				"number": "394",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -110796,6 +112350,10 @@
 			"districtCourts": [{
 				"number": "110",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -110889,6 +112447,10 @@
 			"districtCourts": [{
 				"number": "079",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -111012,6 +112574,15 @@
 			"districtCourts": [{
 				"number": "035",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -111337,6 +112908,10 @@
 			{
 				"number": "424",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -111912,6 +113487,15 @@
 			"districtCourts": [{
 				"number": "042",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -112053,6 +113637,10 @@
 			"districtCourts": [{
 				"number": "100",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -112158,6 +113746,10 @@
 			{
 				"number": "242",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -112263,6 +113855,10 @@
 			"districtCourts": [{
 				"number": "100",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -112348,6 +113944,10 @@
 			"districtCourts": [{
 				"number": "097",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "2",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -112709,6 +114309,10 @@
 			"districtCourts": [{
 				"number": "051",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -112842,6 +114446,15 @@
 			{
 				"number": "429",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "5",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "5",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -113363,6 +114976,10 @@
 			"districtCourts": [{
 				"number": "100",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -113450,6 +115067,34 @@
 			"districtCourts": [{
 				"number": "025",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -114031,6 +115676,15 @@
 			"districtCourts": [{
 				"number": "220",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -114240,6 +115894,10 @@
 			"districtCourts": [{
 				"number": "119",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -114507,6 +116165,10 @@
 			"districtCourts": [{
 				"number": "100",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -114612,6 +116274,10 @@
 			"districtCourts": [{
 				"number": "229",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -114769,6 +116435,15 @@
 			"districtCourts": [{
 				"number": "091",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -114958,6 +116633,10 @@
 			"districtCourts": [{
 				"number": "198",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -115383,6 +117062,15 @@
 			{
 				"number": "448",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -115862,6 +117550,15 @@
 			"districtCourts": [{
 				"number": "266",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -116073,6 +117770,15 @@
 			"districtCourts": [{
 				"number": "082",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -116232,6 +117938,10 @@
 			"districtCourts": [{
 				"number": "336",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -116635,6 +118345,10 @@
 			"districtCourts": [{
 				"number": "155",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "3",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -116848,6 +118562,15 @@
 			"districtCourts": [{
 				"number": "032",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "11",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -116975,6 +118698,10 @@
 			{
 				"number": "062",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "6",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -117440,6 +119167,10 @@
 			{
 				"number": "218",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -117557,6 +119288,15 @@
 			"districtCourts": [{
 				"number": "106",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "11",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -117710,6 +119450,10 @@
 			"districtCourts": [{
 				"number": "106",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -117815,6 +119559,10 @@
 			"districtCourts": [{
 				"number": "216",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -117940,6 +119688,10 @@
 			"districtCourts": [{
 				"number": "025",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -118169,6 +119921,10 @@
 			{
 				"number": "223",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "7",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -118300,6 +120056,15 @@
 			{
 				"number": "397",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "5",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "5",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -118783,6 +120548,15 @@
 			"districtCourts": [{
 				"number": "082",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -119828,6 +121602,34 @@
 			{
 				"number": "335",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "1",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "1",
+				"effective": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "1987-09-01",
+				"repealed": "2003-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2003-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "14",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -121095,6 +122897,15 @@
 			{
 				"number": "378",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "10",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "10",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -121754,6 +123565,10 @@
 			{
 				"number": "445",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "13",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -122503,6 +124318,15 @@
 			"districtCourts": [{
 				"number": "143",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "8",
+				"effective": "1987-09-01",
+				"repealed": "2005-09-01"
+			},
+			{
+				"number": "8",
+				"effective": "2005-09-01"
 			}]
 		},
 		"geometry": {
@@ -124142,6 +125966,10 @@
 			{
 				"number": "274",
 				"effective": "2012-01-01"
+			}],
+			"appellateCourts": [{
+				"number": "4",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
