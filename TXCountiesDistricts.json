@@ -7,40 +7,20 @@
 			"lsad": "County",
 			"censusArea": 787.459,
 			"districtCourts": [{
-				"number": "012",
+				"districtNumber": "012",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "506",
+				"districtNumber": "506",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
+				"districtNumber": "1",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "1",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2005-09-01"
+				"districtNumber": "14",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -1052,15 +1032,15 @@
 			"lsad": "County",
 			"censusArea": 1004.683,
 			"districtCourts": [{
-				"number": "064",
+				"districtNumber": "064",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "242",
+				"districtNumber": "242",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -1171,11 +1151,11 @@
 			"lsad": "County",
 			"censusArea": 883.492,
 			"districtCourts": [{
-				"number": "100",
+				"districtNumber": "100",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -1276,21 +1256,16 @@
 			"lsad": "County",
 			"censusArea": 890.567,
 			"districtCourts": [{
-				"number": "088",
+				"districtNumber": "088",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "356",
+				"districtNumber": "356",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "9",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "9",
-				"effective": "2005-09-01"
+				"districtNumber": "9",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -2472,268 +2447,248 @@
 			"lsad": "County",
 			"censusArea": 1703.478,
 			"districtCourts": [{
-				"number": "011",
+				"districtNumber": "011",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "055",
+				"districtNumber": "055",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "061",
+				"districtNumber": "061",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "080",
+				"districtNumber": "080",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "113",
+				"districtNumber": "113",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "125",
+				"districtNumber": "125",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "127",
+				"districtNumber": "127",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "129",
+				"districtNumber": "129",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "133",
+				"districtNumber": "133",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "151",
+				"districtNumber": "151",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "152",
+				"districtNumber": "152",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "157",
+				"districtNumber": "157",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "164",
+				"districtNumber": "164",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "165",
+				"districtNumber": "165",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "174",
+				"districtNumber": "174",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "176",
+				"districtNumber": "176",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "177",
+				"districtNumber": "177",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "178",
+				"districtNumber": "178",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "179",
+				"districtNumber": "179",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "180",
+				"districtNumber": "180",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "182",
+				"districtNumber": "182",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "183",
+				"districtNumber": "183",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "184",
+				"districtNumber": "184",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "185",
+				"districtNumber": "185",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "189",
+				"districtNumber": "189",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "190",
+				"districtNumber": "190",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "208",
+				"districtNumber": "208",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "209",
+				"districtNumber": "209",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "215",
+				"districtNumber": "215",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "228",
+				"districtNumber": "228",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "230",
+				"districtNumber": "230",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "232",
+				"districtNumber": "232",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "234",
+				"districtNumber": "234",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "245",
+				"districtNumber": "245",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "246",
+				"districtNumber": "246",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "247",
+				"districtNumber": "247",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "248",
+				"districtNumber": "248",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "257",
+				"districtNumber": "257",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "262",
+				"districtNumber": "262",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "263",
+				"districtNumber": "263",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "269",
+				"districtNumber": "269",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "270",
+				"districtNumber": "270",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "280",
+				"districtNumber": "280",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "281",
+				"districtNumber": "281",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "295",
+				"districtNumber": "295",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "308",
+				"districtNumber": "308",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "309",
+				"districtNumber": "309",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "310",
+				"districtNumber": "310",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "311",
+				"districtNumber": "311",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "312",
+				"districtNumber": "312",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "313",
+				"districtNumber": "313",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "314",
+				"districtNumber": "314",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "315",
+				"districtNumber": "315",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "333",
+				"districtNumber": "333",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "334",
+				"districtNumber": "334",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "337",
+				"districtNumber": "337",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "338",
+				"districtNumber": "338",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "339",
+				"districtNumber": "339",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "351",
+				"districtNumber": "351",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
+				"districtNumber": "1",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "1",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2005-09-01"
+				"districtNumber": "14",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -4799,11 +4754,11 @@
 			"lsad": "County",
 			"censusArea": 899.951,
 			"districtCourts": [{
-				"number": "071",
+				"districtNumber": "071",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -5756,11 +5711,11 @@
 			"lsad": "County",
 			"censusArea": 906.286,
 			"districtCourts": [{
-				"number": "031",
+				"districtNumber": "031",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -5845,25 +5800,20 @@
 			"lsad": "County",
 			"censusArea": 873.748,
 			"districtCourts": [{
-				"number": "003",
+				"districtNumber": "003",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "173",
+				"districtNumber": "173",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "392",
+				"districtNumber": "392",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -6967,19 +6917,19 @@
 			"lsad": "County",
 			"censusArea": 767.174,
 			"districtCourts": [{
-				"number": "008",
+				"districtNumber": "008",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "062",
+				"districtNumber": "062",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			},
 			{
-				"number": "12",
+				"districtNumber": "12",
 				"effective": "1987-09-01",
 				"repealed": "2005-09-01"
 			}]
@@ -7921,21 +7871,16 @@
 			"lsad": "County",
 			"censusArea": 1230.909,
 			"districtCourts": [{
-				"number": "003",
+				"districtNumber": "003",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "349",
+				"districtNumber": "349",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -9201,15 +9146,15 @@
 			"lsad": "County",
 			"censusArea": 887.419,
 			"districtCourts": [{
-				"number": "084",
+				"districtNumber": "084",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "316",
+				"districtNumber": "316",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -9304,21 +9249,16 @@
 			"lsad": "County",
 			"censusArea": 938.845,
 			"districtCourts": [{
-				"number": "001",
+				"districtNumber": "001",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "001A",
+				"districtNumber": "001A",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "9",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "9",
-				"effective": "2005-09-01"
+				"districtNumber": "9",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -10854,17 +10794,12 @@
 			"lsad": "County",
 			"censusArea": 2264.555,
 			"districtCourts": [{
-				"number": "394",
+				"districtNumber": "394",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -10938,11 +10873,11 @@
 			"lsad": "County",
 			"censusArea": 1458.329,
 			"districtCourts": [{
-				"number": "105",
+				"districtNumber": "105",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -11583,11 +11518,11 @@
 			"lsad": "County",
 			"censusArea": 902.507,
 			"districtCourts": [{
-				"number": "039",
+				"districtNumber": "039",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -11692,11 +11627,11 @@
 			"lsad": "County",
 			"censusArea": 910.872,
 			"districtCourts": [{
-				"number": "050",
+				"districtNumber": "050",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -11761,11 +11696,11 @@
 			"lsad": "County",
 			"censusArea": 881.308,
 			"districtCourts": [{
-				"number": "105",
+				"districtNumber": "105",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -12452,15 +12387,15 @@
 			"lsad": "County",
 			"censusArea": 907.19,
 			"districtCourts": [{
-				"number": "006",
+				"districtNumber": "006",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "062",
+				"districtNumber": "062",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -13453,15 +13388,15 @@
 			"lsad": "County",
 			"censusArea": 629.016,
 			"districtCourts": [{
-				"number": "021",
+				"districtNumber": "021",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "335",
+				"districtNumber": "335",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -14266,25 +14201,20 @@
 			"lsad": "County",
 			"censusArea": 1073.151,
 			"districtCourts": [{
-				"number": "012",
+				"districtNumber": "012",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "087",
+				"districtNumber": "087",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "278",
+				"districtNumber": "278",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -15594,11 +15524,11 @@
 			"lsad": "County",
 			"censusArea": 932.179,
 			"districtCourts": [{
-				"number": "031",
+				"districtNumber": "031",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -15713,17 +15643,12 @@
 			"lsad": "County",
 			"censusArea": 668.925,
 			"districtCourts": [{
-				"number": "143",
+				"districtNumber": "143",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -16333,19 +16258,19 @@
 			"lsad": "County",
 			"censusArea": 1139.426,
 			"districtCourts": [{
-				"number": "036",
+				"districtNumber": "036",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "156",
+				"districtNumber": "156",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "343",
+				"districtNumber": "343",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -16430,21 +16355,16 @@
 			"lsad": "County",
 			"censusArea": 466.065,
 			"districtCourts": [{
-				"number": "012",
+				"districtNumber": "012",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "278",
+				"districtNumber": "278",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -17358,15 +17278,15 @@
 			"lsad": "County",
 			"censusArea": 1100.276,
 			"districtCourts": [{
-				"number": "023",
+				"districtNumber": "023",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "130",
+				"districtNumber": "130",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -18141,11 +18061,11 @@
 			"lsad": "County",
 			"censusArea": 902.03,
 			"districtCourts": [{
-				"number": "198",
+				"districtNumber": "198",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -18214,11 +18134,11 @@
 			"lsad": "County",
 			"censusArea": 748.261,
 			"districtCourts": [{
-				"number": "035",
+				"districtNumber": "035",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -18943,41 +18863,36 @@
 			"lsad": "County",
 			"censusArea": 1041.735,
 			"districtCourts": [{
-				"number": "009",
+				"districtNumber": "009",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "221",
+				"districtNumber": "221",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "284",
+				"districtNumber": "284",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "359",
+				"districtNumber": "359",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "410",
+				"districtNumber": "410",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "418",
+				"districtNumber": "418",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "435",
+				"districtNumber": "435",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "9",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "9",
-				"effective": "2005-09-01"
+				"districtNumber": "9",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -19925,11 +19840,11 @@
 			"lsad": "County",
 			"censusArea": 899.691,
 			"districtCourts": [{
-				"number": "069",
+				"districtNumber": "069",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -20024,15 +19939,15 @@
 			"lsad": "County",
 			"censusArea": 251.985,
 			"districtCourts": [{
-				"number": "076",
+				"districtNumber": "076",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "276",
+				"districtNumber": "276",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -20655,21 +20570,16 @@
 			"lsad": "County",
 			"censusArea": 946.537,
 			"districtCourts": [{
-				"number": "145",
+				"districtNumber": "145",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "420",
+				"districtNumber": "420",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -23311,17 +23221,12 @@
 			"lsad": "County",
 			"censusArea": 1009.627,
 			"districtCourts": [{
-				"number": "013",
+				"districtNumber": "013",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -24007,39 +23912,39 @@
 			"lsad": "County",
 			"censusArea": 838.482,
 			"districtCourts": [{
-				"number": "028",
+				"districtNumber": "028",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "094",
+				"districtNumber": "094",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "105",
+				"districtNumber": "105",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "117",
+				"districtNumber": "117",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "148",
+				"districtNumber": "148",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "214",
+				"districtNumber": "214",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "319",
+				"districtNumber": "319",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "347",
+				"districtNumber": "347",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -25278,17 +25183,12 @@
 			"lsad": "County",
 			"censusArea": 958.864,
 			"districtCourts": [{
-				"number": "066",
+				"districtNumber": "066",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -25796,11 +25696,11 @@
 			"lsad": "County",
 			"censusArea": 908.392,
 			"districtCourts": [{
-				"number": "286",
+				"districtNumber": "286",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -25915,11 +25815,11 @@
 			"lsad": "County",
 			"censusArea": 420.641,
 			"districtCourts": [{
-				"number": "355",
+				"districtNumber": "355",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -26078,17 +25978,12 @@
 			"lsad": "County",
 			"censusArea": 900.791,
 			"districtCourts": [{
-				"number": "118",
+				"districtNumber": "118",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -26174,21 +26069,16 @@
 			"lsad": "County",
 			"censusArea": 4570.983,
 			"districtCourts": [{
-				"number": "205",
+				"districtNumber": "205",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "394",
+				"districtNumber": "394",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -26540,24 +26430,19 @@
 			"lsad": "County",
 			"censusArea": 840.318,
 			"districtCourts": [{
-				"number": "196",
+				"districtNumber": "196",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "354",
+				"districtNumber": "354",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "5",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
+				"districtNumber": "5",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "5",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -26884,11 +26769,11 @@
 			"lsad": "County",
 			"censusArea": 1051.563,
 			"districtCourts": [{
-				"number": "051",
+				"districtNumber": "051",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -26959,11 +26844,11 @@
 			"lsad": "County",
 			"censusArea": 910.662,
 			"districtCourts": [{
-				"number": "271",
+				"districtNumber": "271",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -27076,15 +26961,15 @@
 			"lsad": "County",
 			"censusArea": 903.478,
 			"districtCourts": [{
-				"number": "043",
+				"districtNumber": "043",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "415",
+				"districtNumber": "415",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -27337,21 +27222,16 @@
 			"lsad": "County",
 			"censusArea": 4763.847,
 			"districtCourts": [{
-				"number": "083",
+				"districtNumber": "083",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "112",
+				"districtNumber": "112",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -29539,21 +29419,16 @@
 			"lsad": "County",
 			"censusArea": 1057.093,
 			"districtCourts": [{
-				"number": "258",
+				"districtNumber": "258",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "411",
+				"districtNumber": "411",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "9",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "9",
-				"effective": "2005-09-01"
+				"districtNumber": "9",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -30469,21 +30344,16 @@
 			"lsad": "County",
 			"censusArea": 229.452,
 			"districtCourts": [{
-				"number": "008",
+				"districtNumber": "008",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "354",
+				"districtNumber": "354",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -31117,17 +30987,12 @@
 			"lsad": "County",
 			"censusArea": 1175.301,
 			"districtCourts": [{
-				"number": "112",
+				"districtNumber": "112",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -31189,15 +31054,15 @@
 			"lsad": "County",
 			"censusArea": 1036.578,
 			"districtCourts": [{
-				"number": "006",
+				"districtNumber": "006",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "102",
+				"districtNumber": "102",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -32448,19 +32313,19 @@
 			"lsad": "County",
 			"censusArea": 770.444,
 			"districtCourts": [{
-				"number": "024",
+				"districtNumber": "024",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "135",
+				"districtNumber": "135",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "267",
+				"districtNumber": "267",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -33707,21 +33572,16 @@
 			"lsad": "County",
 			"censusArea": 530.657,
 			"districtCourts": [{
-				"number": "001",
+				"districtNumber": "001",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "273",
+				"districtNumber": "273",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -35077,21 +34937,16 @@
 			"lsad": "County",
 			"censusArea": 569.243,
 			"districtCourts": [{
-				"number": "258",
+				"districtNumber": "258",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "411",
+				"districtNumber": "411",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "9",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "9",
-				"effective": "2005-09-01"
+				"districtNumber": "9",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -35891,19 +35746,19 @@
 			"lsad": "County",
 			"censusArea": 693.451,
 			"districtCourts": [{
-				"number": "036",
+				"districtNumber": "036",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "156",
+				"districtNumber": "156",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "343",
+				"districtNumber": "343",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -37304,15 +37159,15 @@
 			"lsad": "County",
 			"censusArea": 1135.297,
 			"districtCourts": [{
-				"number": "033",
+				"districtNumber": "033",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "424",
+				"districtNumber": "424",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -38429,21 +38284,16 @@
 			"lsad": "County",
 			"censusArea": 795.583,
 			"districtCourts": [{
-				"number": "123",
+				"districtNumber": "123",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "273",
+				"districtNumber": "273",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -39175,29 +39025,24 @@
 			"lsad": "County",
 			"censusArea": 921.454,
 			"districtCourts": [{
-				"number": "007",
+				"districtNumber": "007",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "114",
+				"districtNumber": "114",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "241",
+				"districtNumber": "241",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "321",
+				"districtNumber": "321",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -40575,21 +40420,16 @@
 			"lsad": "County",
 			"censusArea": 186.463,
 			"districtCourts": [{
-				"number": "018",
+				"districtNumber": "018",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "249",
+				"districtNumber": "249",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -40703,11 +40543,11 @@
 			"lsad": "County",
 			"censusArea": 1453.926,
 			"districtCourts": [{
-				"number": "112",
+				"districtNumber": "112",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -40778,21 +40618,16 @@
 			"lsad": "County",
 			"censusArea": 2358.026,
 			"districtCourts": [{
-				"number": "063",
+				"districtNumber": "063",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "083",
+				"districtNumber": "083",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -41542,17 +41377,12 @@
 			"lsad": "County",
 			"censusArea": 912.552,
 			"districtCourts": [{
-				"number": "039",
+				"districtNumber": "039",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -41642,75 +41472,75 @@
 			"lsad": "County",
 			"censusArea": 990.202,
 			"districtCourts": [{
-				"number": "053",
+				"districtNumber": "053",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "098",
+				"districtNumber": "098",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "126",
+				"districtNumber": "126",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "147",
+				"districtNumber": "147",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "167",
+				"districtNumber": "167",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "200",
+				"districtNumber": "200",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "201",
+				"districtNumber": "201",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "250",
+				"districtNumber": "250",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "261",
+				"districtNumber": "261",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "299",
+				"districtNumber": "299",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "331",
+				"districtNumber": "331",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "345",
+				"districtNumber": "345",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "353",
+				"districtNumber": "353",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "390",
+				"districtNumber": "390",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "403",
+				"districtNumber": "403",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "419",
+				"districtNumber": "419",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "427",
+				"districtNumber": "427",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -42455,35 +42285,25 @@
 			"lsad": "County",
 			"censusArea": 693.608,
 			"districtCourts": [{
-				"number": "258",
+				"districtNumber": "258",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "411",
+				"districtNumber": "411",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
+				"districtNumber": "1",
 				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2003-09-01",
 				"repealed": "2005-09-01"
 			},
 			{
-				"number": "12",
+				"districtNumber": "12",
 				"effective": "2005-09-01"
 			},
 			{
-				"number": "14",
+				"districtNumber": "14",
 				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
 				"repealed": "2005-09-01"
 			}]
 		},
@@ -43228,21 +43048,16 @@
 			"lsad": "County",
 			"censusArea": 924.501,
 			"districtCourts": [{
-				"number": "001A",
+				"districtNumber": "001A",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "088",
+				"districtNumber": "088",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "9",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "9",
-				"effective": "2005-09-01"
+				"districtNumber": "9",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -44386,22 +44201,17 @@
 			"lsad": "County",
 			"censusArea": 842.557,
 			"districtCourts": [{
-				"number": "294",
+				"districtNumber": "294",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "5",
+				"districtNumber": "5",
 				"effective": "1987-09-01",
 				"repealed": "2005-09-01"
 			},
 			{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -45233,23 +45043,23 @@
 			"lsad": "County",
 			"censusArea": 882.143,
 			"districtCourts": [{
-				"number": "024",
+				"districtNumber": "024",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "135",
+				"districtNumber": "135",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "267",
+				"districtNumber": "267",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "377",
+				"districtNumber": "377",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -46554,40 +46364,20 @@
 			"lsad": "County",
 			"censusArea": 513.43,
 			"districtCourts": [{
-				"number": "155",
+				"districtNumber": "155",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "506",
+				"districtNumber": "506",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
+				"districtNumber": "1",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "1",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2005-09-01"
+				"districtNumber": "14",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -47521,17 +47311,12 @@
 			"lsad": "County",
 			"censusArea": 835.602,
 			"districtCourts": [{
-				"number": "143",
+				"districtNumber": "143",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -48895,15 +48680,15 @@
 			"lsad": "County",
 			"censusArea": 1086.15,
 			"districtCourts": [{
-				"number": "023",
+				"districtNumber": "023",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "329",
+				"districtNumber": "329",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -49572,27 +49357,27 @@
 			"lsad": "County",
 			"censusArea": 1118.303,
 			"districtCourts": [{
-				"number": "026",
+				"districtNumber": "026",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "277",
+				"districtNumber": "277",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "368",
+				"districtNumber": "368",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "395",
+				"districtNumber": "395",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "425",
+				"districtNumber": "425",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -50205,17 +49990,12 @@
 			"lsad": "County",
 			"censusArea": 841.107,
 			"districtCourts": [{
-				"number": "109",
+				"districtNumber": "109",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -50293,21 +50073,16 @@
 			"lsad": "County",
 			"censusArea": 645.234,
 			"districtCourts": [{
-				"number": "402",
+				"districtNumber": "402",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			},
 			{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -51199,15 +50974,15 @@
 			"lsad": "County",
 			"censusArea": 1297.406,
 			"districtCourts": [{
-				"number": "293",
+				"districtNumber": "293",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "365",
+				"districtNumber": "365",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -51330,29 +51105,24 @@
 			"lsad": "County",
 			"censusArea": 273.303,
 			"districtCourts": [{
-				"number": "124",
+				"districtNumber": "124",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "188",
+				"districtNumber": "188",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "307",
+				"districtNumber": "307",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			},
 			{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -51752,17 +51522,12 @@
 			"lsad": "County",
 			"censusArea": 835.914,
 			"districtCourts": [{
-				"number": "220",
+				"districtNumber": "220",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -51918,11 +51683,11 @@
 			"lsad": "County",
 			"censusArea": 919.81,
 			"districtCourts": [{
-				"number": "084",
+				"districtNumber": "084",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -52001,11 +51766,11 @@
 			"lsad": "County",
 			"censusArea": 695.114,
 			"districtCourts": [{
-				"number": "046",
+				"districtNumber": "046",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -52410,11 +52175,11 @@
 			"lsad": "County",
 			"censusArea": 1462.033,
 			"districtCourts": [{
-				"number": "069",
+				"districtNumber": "069",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -52515,17 +52280,12 @@
 			"lsad": "County",
 			"censusArea": 903.131,
 			"districtCourts": [{
-				"number": "039",
+				"districtNumber": "039",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -52639,23 +52399,23 @@
 			"lsad": "County",
 			"censusArea": 677.978,
 			"districtCourts": [{
-				"number": "022",
+				"districtNumber": "022",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "207",
+				"districtNumber": "207",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "274",
+				"districtNumber": "274",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "428",
+				"districtNumber": "428",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -53004,51 +52764,51 @@
 			"lsad": "County",
 			"censusArea": 1570.865,
 			"districtCourts": [{
-				"number": "092",
+				"districtNumber": "092",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "093",
+				"districtNumber": "093",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "139",
+				"districtNumber": "139",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "206",
+				"districtNumber": "206",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "275",
+				"districtNumber": "275",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "332",
+				"districtNumber": "332",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "370",
+				"districtNumber": "370",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "389",
+				"districtNumber": "389",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "398",
+				"districtNumber": "398",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "430",
+				"districtNumber": "430",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "449",
+				"districtNumber": "449",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -53427,29 +53187,24 @@
 			"lsad": "County",
 			"censusArea": 1062.602,
 			"districtCourts": [{
-				"number": "003",
+				"districtNumber": "003",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "087",
+				"districtNumber": "087",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "349",
+				"districtNumber": "349",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "369",
+				"districtNumber": "369",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -55279,17 +55034,12 @@
 			"lsad": "County",
 			"censusArea": 1500.713,
 			"districtCourts": [{
-				"number": "109",
+				"districtNumber": "109",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -55361,20 +55111,20 @@
 			"lsad": "County",
 			"censusArea": 797.778,
 			"districtCourts": [{
-				"number": "159",
+				"districtNumber": "159",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "217",
+				"districtNumber": "217",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "9",
+				"districtNumber": "9",
 				"effective": "1987-09-01",
 				"repealed": "2005-09-01"
 			},
 			{
-				"number": "12",
+				"districtNumber": "12",
 				"effective": "2005-09-01"
 			}]
 		},
@@ -57603,19 +57353,19 @@
 			"lsad": "County",
 			"censusArea": 252.074,
 			"districtCourts": [{
-				"number": "036",
+				"districtNumber": "036",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "156",
+				"districtNumber": "156",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "343",
+				"districtNumber": "343",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -58662,11 +58412,11 @@
 			"lsad": "County",
 			"censusArea": 909.109,
 			"districtCourts": [{
-				"number": "047",
+				"districtNumber": "047",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -58765,36 +58515,16 @@
 			"lsad": "County",
 			"censusArea": 646.508,
 			"districtCourts": [{
-				"number": "155",
+				"districtNumber": "155",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
+				"districtNumber": "1",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "1",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2005-09-01"
+				"districtNumber": "14",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -59968,17 +59698,12 @@
 			"lsad": "County",
 			"censusArea": 867.482,
 			"districtCourts": [{
-				"number": "050",
+				"districtNumber": "050",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -60052,19 +59777,19 @@
 			"lsad": "County",
 			"censusArea": 880.239,
 			"districtCourts": [{
-				"number": "036",
+				"districtNumber": "036",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "156",
+				"districtNumber": "156",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "343",
+				"districtNumber": "343",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -60739,115 +60464,115 @@
 			"lsad": "County",
 			"censusArea": 1239.82,
 			"districtCourts": [{
-				"number": "037",
+				"districtNumber": "037",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "045",
+				"districtNumber": "045",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "057",
+				"districtNumber": "057",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "073",
+				"districtNumber": "073",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "131",
+				"districtNumber": "131",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "144",
+				"districtNumber": "144",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "150",
+				"districtNumber": "150",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "166",
+				"districtNumber": "166",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "175",
+				"districtNumber": "175",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "186",
+				"districtNumber": "186",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "187",
+				"districtNumber": "187",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "224",
+				"districtNumber": "224",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "225",
+				"districtNumber": "225",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "226",
+				"districtNumber": "226",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "227",
+				"districtNumber": "227",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "285",
+				"districtNumber": "285",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "288",
+				"districtNumber": "288",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "289",
+				"districtNumber": "289",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "290",
+				"districtNumber": "290",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "379",
+				"districtNumber": "379",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "386",
+				"districtNumber": "386",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "399",
+				"districtNumber": "399",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "407",
+				"districtNumber": "407",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "408",
+				"districtNumber": "408",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "436",
+				"districtNumber": "436",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "437",
+				"districtNumber": "437",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "438",
+				"districtNumber": "438",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -61922,17 +61647,12 @@
 			"lsad": "County",
 			"censusArea": 982.978,
 			"districtCourts": [{
-				"number": "220",
+				"districtNumber": "220",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -62542,19 +62262,19 @@
 			"lsad": "County",
 			"censusArea": 885.006,
 			"districtCourts": [{
-				"number": "005",
+				"districtNumber": "005",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "102",
+				"districtNumber": "102",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "202",
+				"districtNumber": "202",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -64421,52 +64141,32 @@
 			"lsad": "County",
 			"censusArea": 1357.701,
 			"districtCourts": [{
-				"number": "023",
+				"districtNumber": "023",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "149",
+				"districtNumber": "149",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "239",
+				"districtNumber": "239",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "300",
+				"districtNumber": "300",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "412",
+				"districtNumber": "412",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
+				"districtNumber": "1",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "1",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2005-09-01"
+				"districtNumber": "14",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -65620,33 +65320,28 @@
 			"lsad": "County",
 			"censusArea": 585.445,
 			"districtCourts": [{
-				"number": "085",
+				"districtNumber": "085",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "272",
+				"districtNumber": "272",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "361",
+				"districtNumber": "361",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
+				"districtNumber": "1",
 				"effective": "1987-09-01",
 				"repealed": "2003-09-01"
 			},
 			{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "10",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "14",
+				"districtNumber": "14",
 				"effective": "1987-09-01",
 				"repealed": "2003-09-01"
 			}]
@@ -67362,35 +67057,25 @@
 			"lsad": "County",
 			"censusArea": 659.026,
 			"districtCourts": [{
-				"number": "021",
+				"districtNumber": "021",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "335",
+				"districtNumber": "335",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
+				"districtNumber": "1",
 				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2003-09-01",
 				"repealed": "2005-09-01"
 			},
 			{
-				"number": "10",
+				"districtNumber": "10",
 				"effective": "2005-09-01"
 			},
 			{
-				"number": "14",
+				"districtNumber": "14",
 				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
 				"repealed": "2005-09-01"
 			}]
 		},
@@ -68783,19 +68468,19 @@
 			"lsad": "County",
 			"censusArea": 545.257,
 			"districtCourts": [{
-				"number": "022",
+				"districtNumber": "022",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "207",
+				"districtNumber": "207",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "421",
+				"districtNumber": "421",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -69618,19 +69303,19 @@
 			"lsad": "County",
 			"censusArea": 506.84,
 			"districtCourts": [{
-				"number": "024",
+				"districtNumber": "024",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "135",
+				"districtNumber": "135",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "267",
+				"districtNumber": "267",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -70459,15 +70144,15 @@
 			"lsad": "County",
 			"censusArea": 195.826,
 			"districtCourts": [{
-				"number": "076",
+				"districtNumber": "076",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "276",
+				"districtNumber": "276",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -71152,11 +70837,11 @@
 			"lsad": "County",
 			"censusArea": 936.963,
 			"districtCourts": [{
-				"number": "005",
+				"districtNumber": "005",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -72279,40 +71964,20 @@
 			"lsad": "County",
 			"censusArea": 597.137,
 			"districtCourts": [{
-				"number": "253",
+				"districtNumber": "253",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "344",
+				"districtNumber": "344",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
+				"districtNumber": "1",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "1",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2005-09-01"
+				"districtNumber": "14",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -73120,21 +72785,16 @@
 			"lsad": "County",
 			"censusArea": 1052.913,
 			"districtCourts": [{
-				"number": "002",
+				"districtNumber": "002",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "369",
+				"districtNumber": "369",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -75218,11 +74878,11 @@
 			"lsad": "County",
 			"censusArea": 775.15,
 			"districtCourts": [{
-				"number": "286",
+				"districtNumber": "286",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -75299,17 +74959,12 @@
 			"lsad": "County",
 			"censusArea": 1261.946,
 			"districtCourts": [{
-				"number": "042",
+				"districtNumber": "042",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -75931,23 +75586,23 @@
 			"lsad": "County",
 			"censusArea": 559.476,
 			"districtCourts": [{
-				"number": "022",
+				"districtNumber": "022",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "207",
+				"districtNumber": "207",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "274",
+				"districtNumber": "274",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "433",
+				"districtNumber": "433",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -76554,11 +76209,11 @@
 			"lsad": "County",
 			"censusArea": 900.563,
 			"districtCourts": [{
-				"number": "050",
+				"districtNumber": "050",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -76669,17 +76324,12 @@
 			"lsad": "County",
 			"censusArea": 785.069,
 			"districtCourts": [{
-				"number": "109",
+				"districtNumber": "109",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -77523,17 +77173,12 @@
 			"lsad": "County",
 			"censusArea": 2807.327,
 			"districtCourts": [{
-				"number": "112",
+				"districtNumber": "112",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -79199,141 +78844,136 @@
 			"lsad": "County",
 			"censusArea": 871.279,
 			"districtCourts": [{
-				"number": "014",
+				"districtNumber": "014",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "044",
+				"districtNumber": "044",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "068",
+				"districtNumber": "068",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "095",
+				"districtNumber": "095",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "101",
+				"districtNumber": "101",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "116",
+				"districtNumber": "116",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "134",
+				"districtNumber": "134",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "160",
+				"districtNumber": "160",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "162",
+				"districtNumber": "162",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "191",
+				"districtNumber": "191",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "192",
+				"districtNumber": "192",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "193",
+				"districtNumber": "193",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "194",
+				"districtNumber": "194",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "195",
+				"districtNumber": "195",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "203",
+				"districtNumber": "203",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "204",
+				"districtNumber": "204",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "254",
+				"districtNumber": "254",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "255",
+				"districtNumber": "255",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "256",
+				"districtNumber": "256",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "265",
+				"districtNumber": "265",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "282",
+				"districtNumber": "282",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "283",
+				"districtNumber": "283",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "291",
+				"districtNumber": "291",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "292",
+				"districtNumber": "292",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "298",
+				"districtNumber": "298",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "301",
+				"districtNumber": "301",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "302",
+				"districtNumber": "302",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "303",
+				"districtNumber": "303",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "304",
+				"districtNumber": "304",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "305",
+				"districtNumber": "305",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "330",
+				"districtNumber": "330",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "363",
+				"districtNumber": "363",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "5",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "5",
-				"effective": "2005-09-01"
+				"districtNumber": "5",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -79941,15 +79581,15 @@
 			"lsad": "County",
 			"censusArea": 256.825,
 			"districtCourts": [{
-				"number": "008",
+				"districtNumber": "008",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "062",
+				"districtNumber": "062",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -81530,11 +81170,11 @@
 			"lsad": "County",
 			"censusArea": 901.724,
 			"districtCourts": [{
-				"number": "110",
+				"districtNumber": "110",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -81593,15 +81233,15 @@
 			"lsad": "County",
 			"censusArea": 1328.884,
 			"districtCourts": [{
-				"number": "293",
+				"districtNumber": "293",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "365",
+				"districtNumber": "365",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -81684,28 +81324,28 @@
 			"lsad": "County",
 			"censusArea": 897.687,
 			"districtCourts": [{
-				"number": "070",
+				"districtNumber": "070",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "161",
+				"districtNumber": "161",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "244",
+				"districtNumber": "244",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "358",
+				"districtNumber": "358",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
+				"districtNumber": "8",
 				"effective": "1987-09-01",
 				"repealed": "2005-09-01"
 			},
 			{
-				"number": "11",
+				"districtNumber": "11",
 				"effective": "2005-09-01"
 			}]
 		},
@@ -81780,11 +81420,11 @@
 			"lsad": "County",
 			"censusArea": 992.143,
 			"districtCourts": [{
-				"number": "110",
+				"districtNumber": "110",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -81885,11 +81525,11 @@
 			"lsad": "County",
 			"censusArea": 704.397,
 			"districtCourts": [{
-				"number": "046",
+				"districtNumber": "046",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -82554,56 +82194,36 @@
 			"lsad": "County",
 			"censusArea": 861.481,
 			"districtCourts": [{
-				"number": "240",
+				"districtNumber": "240",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "268",
+				"districtNumber": "268",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "328",
+				"districtNumber": "328",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "387",
+				"districtNumber": "387",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "400",
+				"districtNumber": "400",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "434",
+				"districtNumber": "434",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
+				"districtNumber": "1",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "1",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2005-09-01"
+				"districtNumber": "14",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -83771,21 +83391,16 @@
 			"lsad": "County",
 			"censusArea": 877.739,
 			"districtCourts": [{
-				"number": "077",
+				"districtNumber": "077",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "087",
+				"districtNumber": "087",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -84563,56 +84178,36 @@
 			"lsad": "County",
 			"censusArea": 378.358,
 			"districtCourts": [{
-				"number": "010",
+				"districtNumber": "010",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "056",
+				"districtNumber": "056",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "122",
+				"districtNumber": "122",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "212",
+				"districtNumber": "212",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "306",
+				"districtNumber": "306",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "405",
+				"districtNumber": "405",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
+				"districtNumber": "1",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "1",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2005-09-01"
+				"districtNumber": "14",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -85626,16 +85221,16 @@
 			"lsad": "County",
 			"censusArea": 900.218,
 			"districtCourts": [{
-				"number": "118",
+				"districtNumber": "118",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
+				"districtNumber": "8",
 				"effective": "1987-09-01",
 				"repealed": "2005-09-01"
 			},
 			{
-				"number": "11",
+				"districtNumber": "11",
 				"effective": "2005-09-01"
 			}]
 		},
@@ -85686,19 +85281,19 @@
 			"lsad": "County",
 			"censusArea": 852.014,
 			"districtCourts": [{
-				"number": "024",
+				"districtNumber": "024",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "135",
+				"districtNumber": "135",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "267",
+				"districtNumber": "267",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -86581,11 +86176,11 @@
 			"lsad": "County",
 			"censusArea": 891.867,
 			"districtCourts": [{
-				"number": "106",
+				"districtNumber": "106",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -86722,11 +86317,11 @@
 			"lsad": "County",
 			"censusArea": 1065.598,
 			"districtCourts": [{
-				"number": "198",
+				"districtNumber": "198",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -87277,33 +86872,28 @@
 			"lsad": "County",
 			"censusArea": 1037.101,
 			"districtCourts": [{
-				"number": "019",
+				"districtNumber": "019",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "054",
+				"districtNumber": "054",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "074",
+				"districtNumber": "074",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "170",
+				"districtNumber": "170",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "414",
+				"districtNumber": "414",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -87541,15 +87131,15 @@
 			"lsad": "County",
 			"censusArea": 380.88,
 			"districtCourts": [{
-				"number": "115",
+				"districtNumber": "115",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "276",
+				"districtNumber": "276",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -88128,16 +87718,16 @@
 			"lsad": "County",
 			"censusArea": 914.944,
 			"districtCourts": [{
-				"number": "118",
+				"districtNumber": "118",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
+				"districtNumber": "8",
 				"effective": "1987-09-01",
 				"repealed": "2005-09-01"
 			},
 			{
-				"number": "11",
+				"districtNumber": "11",
 				"effective": "2005-09-01"
 			}]
 		},
@@ -88226,11 +87816,11 @@
 			"lsad": "County",
 			"censusArea": 928.803,
 			"districtCourts": [{
-				"number": "198",
+				"districtNumber": "198",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -88331,15 +87921,15 @@
 			"lsad": "County",
 			"censusArea": 1279.258,
 			"districtCourts": [{
-				"number": "293",
+				"districtNumber": "293",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "365",
+				"districtNumber": "365",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -88608,19 +88198,19 @@
 			"lsad": "County",
 			"censusArea": 829.435,
 			"districtCourts": [{
-				"number": "024",
+				"districtNumber": "024",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "135",
+				"districtNumber": "135",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "267",
+				"districtNumber": "267",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -89169,41 +88759,36 @@
 			"lsad": "County",
 			"censusArea": 876.295,
 			"districtCourts": [{
-				"number": "058",
+				"districtNumber": "058",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "060",
+				"districtNumber": "060",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "136",
+				"districtNumber": "136",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "172",
+				"districtNumber": "172",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "252",
+				"districtNumber": "252",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "279",
+				"districtNumber": "279",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "317",
+				"districtNumber": "317",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "9",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "9",
-				"effective": "2005-09-01"
+				"districtNumber": "9",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -90119,11 +89704,11 @@
 			"lsad": "County",
 			"censusArea": 1136.138,
 			"districtCourts": [{
-				"number": "229",
+				"districtNumber": "229",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -90282,11 +89867,11 @@
 			"lsad": "County",
 			"censusArea": 864.966,
 			"districtCourts": [{
-				"number": "079",
+				"districtNumber": "079",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -90575,25 +90160,20 @@
 			"lsad": "County",
 			"censusArea": 724.692,
 			"districtCourts": [{
-				"number": "018",
+				"districtNumber": "018",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "249",
+				"districtNumber": "249",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "413",
+				"districtNumber": "413",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -90961,17 +90541,12 @@
 			"lsad": "County",
 			"censusArea": 928.554,
 			"districtCourts": [{
-				"number": "259",
+				"districtNumber": "259",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -91167,15 +90742,15 @@
 			"lsad": "County",
 			"censusArea": 747.556,
 			"districtCourts": [{
-				"number": "081",
+				"districtNumber": "081",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "218",
+				"districtNumber": "218",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -91400,24 +90975,19 @@
 			"lsad": "County",
 			"censusArea": 780.699,
 			"districtCourts": [{
-				"number": "086",
+				"districtNumber": "086",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "422",
+				"districtNumber": "422",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "5",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
+				"districtNumber": "5",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "5",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "12",
+				"districtNumber": "12",
 				"effective": "1987-09-01",
 				"repealed": "2005-09-01"
 			}]
@@ -91929,11 +91499,11 @@
 			"lsad": "County",
 			"censusArea": 662.453,
 			"districtCourts": [{
-				"number": "216",
+				"districtNumber": "216",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -92164,15 +91734,15 @@
 			"lsad": "County",
 			"censusArea": 1103.318,
 			"districtCourts": [{
-				"number": "198",
+				"districtNumber": "198",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "216",
+				"districtNumber": "216",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -92303,11 +91873,11 @@
 			"lsad": "County",
 			"censusArea": 1250.987,
 			"districtCourts": [{
-				"number": "198",
+				"districtNumber": "198",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -92396,11 +91966,11 @@
 			"lsad": "County",
 			"censusArea": 1360.055,
 			"districtCourts": [{
-				"number": "063",
+				"districtNumber": "063",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -92675,17 +92245,12 @@
 			"lsad": "County",
 			"censusArea": 850.621,
 			"districtCourts": [{
-				"number": "050",
+				"districtNumber": "050",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -93159,11 +92724,11 @@
 			"lsad": "County",
 			"censusArea": 1016.181,
 			"districtCourts": [{
-				"number": "154",
+				"districtNumber": "154",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -93272,11 +92837,11 @@
 			"lsad": "County",
 			"censusArea": 712.84,
 			"districtCourts": [{
-				"number": "027",
+				"districtNumber": "027",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -93671,11 +93236,11 @@
 			"lsad": "County",
 			"censusArea": 1486.691,
 			"districtCourts": [{
-				"number": "081",
+				"districtNumber": "081",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "218",
+				"districtNumber": "218",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": []
@@ -93781,11 +93346,11 @@
 			"lsad": "County",
 			"censusArea": 969.708,
 			"districtCourts": [{
-				"number": "025",
+				"districtNumber": "025",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -93978,21 +93543,16 @@
 			"lsad": "County",
 			"censusArea": 1158.417,
 			"districtCourts": [{
-				"number": "075",
+				"districtNumber": "075",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "253",
+				"districtNumber": "253",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "9",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "9",
-				"effective": "2005-09-01"
+				"districtNumber": "9",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -94308,21 +93868,16 @@
 			"lsad": "County",
 			"censusArea": 905.288,
 			"districtCourts": [{
-				"number": "077",
+				"districtNumber": "077",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "087",
+				"districtNumber": "087",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -94484,19 +94039,19 @@
 			"lsad": "County",
 			"censusArea": 1039.696,
 			"districtCourts": [{
-				"number": "036",
+				"districtNumber": "036",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "156",
+				"districtNumber": "156",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "343",
+				"districtNumber": "343",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -94695,15 +94250,15 @@
 			"lsad": "County",
 			"censusArea": 934.034,
 			"districtCourts": [{
-				"number": "033",
+				"districtNumber": "033",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "424",
+				"districtNumber": "424",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -95128,31 +94683,31 @@
 			"lsad": "County",
 			"censusArea": 895.599,
 			"districtCourts": [{
-				"number": "072",
+				"districtNumber": "072",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "099",
+				"districtNumber": "099",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "137",
+				"districtNumber": "137",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "140",
+				"districtNumber": "140",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "237",
+				"districtNumber": "237",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "364",
+				"districtNumber": "364",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -95289,21 +94844,16 @@
 			"lsad": "County",
 			"censusArea": 491.39,
 			"districtCourts": [{
-				"number": "001",
+				"districtNumber": "001",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "273",
+				"districtNumber": "273",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -95761,11 +95311,11 @@
 			"lsad": "County",
 			"censusArea": 1310.63,
 			"districtCourts": [{
-				"number": "051",
+				"districtNumber": "051",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -95826,17 +95376,12 @@
 			"lsad": "County",
 			"censusArea": 905.444,
 			"districtCourts": [{
-				"number": "132",
+				"districtNumber": "132",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -95940,17 +95485,12 @@
 			"lsad": "County",
 			"censusArea": 914.286,
 			"districtCourts": [{
-				"number": "259",
+				"districtNumber": "259",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -96078,11 +95618,11 @@
 			"lsad": "County",
 			"censusArea": 923.035,
 			"districtCourts": [{
-				"number": "069",
+				"districtNumber": "069",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -96195,15 +95735,15 @@
 			"lsad": "County",
 			"censusArea": 1223.179,
 			"districtCourts": [{
-				"number": "229",
+				"districtNumber": "229",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "381",
+				"districtNumber": "381",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -96490,17 +96030,12 @@
 			"lsad": "County",
 			"censusArea": 896.719,
 			"districtCourts": [{
-				"number": "090",
+				"districtNumber": "090",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -96618,11 +96153,11 @@
 			"lsad": "County",
 			"censusArea": 923.451,
 			"districtCourts": [{
-				"number": "051",
+				"districtNumber": "051",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -96709,17 +96244,12 @@
 			"lsad": "County",
 			"censusArea": 916.313,
 			"districtCourts": [{
-				"number": "039",
+				"districtNumber": "039",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -96817,15 +96347,15 @@
 			"lsad": "County",
 			"censusArea": 890.159,
 			"districtCourts": [{
-				"number": "064",
+				"districtNumber": "064",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "242",
+				"districtNumber": "242",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -96924,11 +96454,11 @@
 			"lsad": "County",
 			"censusArea": 1325.356,
 			"districtCourts": [{
-				"number": "038",
+				"districtNumber": "038",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -97199,32 +96729,32 @@
 			"lsad": "County",
 			"censusArea": 900.299,
 			"districtCourts": [{
-				"number": "142",
+				"districtNumber": "142",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "238",
+				"districtNumber": "238",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "318",
+				"districtNumber": "318",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "385",
+				"districtNumber": "385",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "441",
+				"districtNumber": "441",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
+				"districtNumber": "8",
 				"effective": "1987-09-01",
 				"repealed": "2005-09-01"
 			},
 			{
-				"number": "11",
+				"districtNumber": "11",
 				"effective": "2005-09-01"
 			}]
 		},
@@ -97299,11 +96829,11 @@
 			"lsad": "County",
 			"censusArea": 1016.93,
 			"districtCourts": [{
-				"number": "020",
+				"districtNumber": "020",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -97800,17 +97330,12 @@
 			"lsad": "County",
 			"censusArea": 911.09,
 			"districtCourts": [{
-				"number": "032",
+				"districtNumber": "032",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -97928,11 +97453,11 @@
 			"lsad": "County",
 			"censusArea": 930.906,
 			"districtCourts": [{
-				"number": "097",
+				"districtNumber": "097",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -98183,11 +97708,11 @@
 			"lsad": "County",
 			"censusArea": 989.562,
 			"districtCourts": [{
-				"number": "110",
+				"districtNumber": "110",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -98264,21 +97789,16 @@
 			"lsad": "County",
 			"censusArea": 933.677,
 			"districtCourts": [{
-				"number": "001",
+				"districtNumber": "001",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "001A",
+				"districtNumber": "001A",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "9",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "9",
-				"effective": "2005-09-01"
+				"districtNumber": "9",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -98688,17 +98208,12 @@
 			"lsad": "County",
 			"censusArea": 911.997,
 			"districtCourts": [{
-				"number": "032",
+				"districtNumber": "032",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -98812,11 +98327,11 @@
 			"lsad": "County",
 			"censusArea": 917.627,
 			"districtCourts": [{
-				"number": "084",
+				"districtNumber": "084",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -98939,11 +98454,11 @@
 			"lsad": "County",
 			"censusArea": 1500.533,
 			"districtCourts": [{
-				"number": "222",
+				"districtNumber": "222",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -99022,25 +98537,20 @@
 			"lsad": "County",
 			"censusArea": 333.669,
 			"districtCourts": [{
-				"number": "128",
+				"districtNumber": "128",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "163",
+				"districtNumber": "163",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "260",
+				"districtNumber": "260",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "9",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "9",
-				"effective": "2005-09-01"
+				"districtNumber": "9",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -99588,17 +99098,12 @@
 			"lsad": "County",
 			"censusArea": 951.791,
 			"districtCourts": [{
-				"number": "029",
+				"districtNumber": "029",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -99764,15 +99269,15 @@
 			"lsad": "County",
 			"censusArea": 801.749,
 			"districtCourts": [{
-				"number": "123",
+				"districtNumber": "123",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			},
 			{
-				"number": "12",
+				"districtNumber": "12",
 				"effective": "1987-09-01",
 				"repealed": "2005-09-01"
 			}]
@@ -100188,11 +99693,11 @@
 			"lsad": "County",
 			"censusArea": 880.778,
 			"districtCourts": [{
-				"number": "287",
+				"districtNumber": "287",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -100317,27 +99822,27 @@
 			"lsad": "County",
 			"censusArea": 908.37,
 			"districtCourts": [{
-				"number": "047",
+				"districtNumber": "047",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "108",
+				"districtNumber": "108",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "181",
+				"districtNumber": "181",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "251",
+				"districtNumber": "251",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "320",
+				"districtNumber": "320",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -100482,17 +99987,12 @@
 			"lsad": "County",
 			"censusArea": 3855.237,
 			"districtCourts": [{
-				"number": "394",
+				"districtNumber": "394",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -100830,19 +100330,19 @@
 			"lsad": "County",
 			"censusArea": 911.544,
 			"districtCourts": [{
-				"number": "047",
+				"districtNumber": "047",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "181",
+				"districtNumber": "181",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "251",
+				"districtNumber": "251",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -101005,11 +100505,11 @@
 			"lsad": "County",
 			"censusArea": 699.195,
 			"districtCourts": [{
-				"number": "038",
+				"districtNumber": "038",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -101374,11 +100874,11 @@
 			"lsad": "County",
 			"censusArea": 924.058,
 			"districtCourts": [{
-				"number": "031",
+				"districtNumber": "031",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -101469,21 +100969,16 @@
 			"lsad": "County",
 			"censusArea": 127.036,
 			"districtCourts": [{
-				"number": "382",
+				"districtNumber": "382",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "439",
+				"districtNumber": "439",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "5",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "5",
-				"effective": "2005-09-01"
+				"districtNumber": "5",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -101689,11 +101184,11 @@
 			"lsad": "County",
 			"censusArea": 1050.945,
 			"districtCourts": [{
-				"number": "119",
+				"districtNumber": "119",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -101790,21 +101285,16 @@
 			"lsad": "County",
 			"censusArea": 924.027,
 			"districtCourts": [{
-				"number": "004",
+				"districtNumber": "004",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			},
 			{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -102362,99 +101852,99 @@
 			"lsad": "County",
 			"censusArea": 863.608,
 			"districtCourts": [{
-				"number": "017",
+				"districtNumber": "017",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "048",
+				"districtNumber": "048",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "067",
+				"districtNumber": "067",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "096",
+				"districtNumber": "096",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "141",
+				"districtNumber": "141",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "153",
+				"districtNumber": "153",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "213",
+				"districtNumber": "213",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "231",
+				"districtNumber": "231",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "233",
+				"districtNumber": "233",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "236",
+				"districtNumber": "236",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "297",
+				"districtNumber": "297",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "322",
+				"districtNumber": "322",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "323",
+				"districtNumber": "323",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "324",
+				"districtNumber": "324",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "325",
+				"districtNumber": "325",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "342",
+				"districtNumber": "342",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "348",
+				"districtNumber": "348",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "352",
+				"districtNumber": "352",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "360",
+				"districtNumber": "360",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "371",
+				"districtNumber": "371",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "372",
+				"districtNumber": "372",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "396",
+				"districtNumber": "396",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "432",
+				"districtNumber": "432",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -102869,29 +102359,24 @@
 			"lsad": "County",
 			"censusArea": 915.552,
 			"districtCourts": [{
-				"number": "042",
+				"districtNumber": "042",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "104",
+				"districtNumber": "104",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "326",
+				"districtNumber": "326",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "350",
+				"districtNumber": "350",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -103029,11 +102514,11 @@
 			"lsad": "County",
 			"censusArea": 888.839,
 			"districtCourts": [{
-				"number": "121",
+				"districtNumber": "121",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -103164,15 +102649,15 @@
 			"lsad": "County",
 			"censusArea": 406.054,
 			"districtCourts": [{
-				"number": "076",
+				"districtNumber": "076",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "276",
+				"districtNumber": "276",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -104129,23 +103614,23 @@
 			"lsad": "County",
 			"censusArea": 1521.972,
 			"districtCourts": [{
-				"number": "051",
+				"districtNumber": "051",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "119",
+				"districtNumber": "119",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "340",
+				"districtNumber": "340",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "391",
+				"districtNumber": "391",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -104280,21 +103765,16 @@
 			"lsad": "County",
 			"censusArea": 582.947,
 			"districtCourts": [{
-				"number": "115",
+				"districtNumber": "115",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			},
 			{
-				"number": "12",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "12",
-				"effective": "2005-09-01"
+				"districtNumber": "12",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -104892,17 +104372,12 @@
 			"lsad": "County",
 			"censusArea": 1241.324,
 			"districtCourts": [{
-				"number": "112",
+				"districtNumber": "112",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -104980,11 +104455,11 @@
 			"lsad": "County",
 			"censusArea": 1551.946,
 			"districtCourts": [{
-				"number": "038",
+				"districtNumber": "038",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -105115,15 +104590,15 @@
 			"lsad": "County",
 			"censusArea": 3144.75,
 			"districtCourts": [{
-				"number": "063",
+				"districtNumber": "063",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "083",
+				"districtNumber": "083",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -105576,35 +105051,25 @@
 			"lsad": "County",
 			"censusArea": 784.169,
 			"districtCourts": [{
-				"number": "012",
+				"districtNumber": "012",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "278",
+				"districtNumber": "278",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
+				"districtNumber": "1",
 				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2003-09-01",
 				"repealed": "2005-09-01"
 			},
 			{
-				"number": "10",
+				"districtNumber": "10",
 				"effective": "2005-09-01"
 			},
 			{
-				"number": "14",
+				"districtNumber": "14",
 				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
 				"repealed": "2005-09-01"
 			}]
 		},
@@ -106149,11 +105614,11 @@
 			"lsad": "County",
 			"censusArea": 904.422,
 			"districtCourts": [{
-				"number": "271",
+				"districtNumber": "271",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -106372,11 +105837,11 @@
 			"lsad": "County",
 			"censusArea": 799.708,
 			"districtCourts": [{
-				"number": "121",
+				"districtNumber": "121",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -106477,11 +105942,11 @@
 			"lsad": "County",
 			"censusArea": 914.468,
 			"districtCourts": [{
-				"number": "090",
+				"districtNumber": "090",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -106590,11 +106055,11 @@
 			"lsad": "County",
 			"censusArea": 998.412,
 			"districtCourts": [{
-				"number": "049",
+				"districtNumber": "049",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -106789,11 +106254,11 @@
 			"lsad": "County",
 			"censusArea": 903.11,
 			"districtCourts": [{
-				"number": "097",
+				"districtNumber": "097",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -106928,15 +106393,15 @@
 			"lsad": "County",
 			"censusArea": 1219.544,
 			"districtCourts": [{
-				"number": "081",
+				"districtNumber": "081",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "218",
+				"districtNumber": "218",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -107135,11 +106600,11 @@
 			"lsad": "County",
 			"censusArea": 826.797,
 			"districtCourts": [{
-				"number": "287",
+				"districtNumber": "287",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -107250,11 +106715,11 @@
 			"lsad": "County",
 			"censusArea": 790.961,
 			"districtCourts": [{
-				"number": "216",
+				"districtNumber": "216",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -107457,23 +106922,23 @@
 			"lsad": "County",
 			"censusArea": 3361.482,
 			"districtCourts": [{
-				"number": "049",
+				"districtNumber": "049",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "111",
+				"districtNumber": "111",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "341",
+				"districtNumber": "341",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "406",
+				"districtNumber": "406",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -107906,11 +107371,11 @@
 			"lsad": "County",
 			"censusArea": 914.523,
 			"districtCourts": [{
-				"number": "031",
+				"districtNumber": "031",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -108007,19 +107472,19 @@
 			"lsad": "County",
 			"censusArea": 627.776,
 			"districtCourts": [{
-				"number": "030",
+				"districtNumber": "030",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "078",
+				"districtNumber": "078",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "089",
+				"districtNumber": "089",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -108290,11 +107755,11 @@
 			"lsad": "County",
 			"censusArea": 970.844,
 			"districtCourts": [{
-				"number": "046",
+				"districtNumber": "046",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -108653,11 +108118,11 @@
 			"lsad": "County",
 			"censusArea": 590.554,
 			"districtCourts": [{
-				"number": "197",
+				"districtNumber": "197",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -109074,15 +108539,15 @@
 			"lsad": "County",
 			"censusArea": 803.733,
 			"districtCourts": [{
-				"number": "081",
+				"districtNumber": "081",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "218",
+				"districtNumber": "218",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -109321,11 +108786,11 @@
 			"lsad": "County",
 			"censusArea": 874.759,
 			"districtCourts": [{
-				"number": "235",
+				"districtNumber": "235",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -109726,17 +109191,12 @@
 			"lsad": "County",
 			"censusArea": 1052.066,
 			"districtCourts": [{
-				"number": "052",
+				"districtNumber": "052",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -109940,11 +109400,11 @@
 			"lsad": "County",
 			"censusArea": 900.198,
 			"districtCourts": [{
-				"number": "072",
+				"districtNumber": "072",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -110037,21 +109497,16 @@
 			"lsad": "County",
 			"censusArea": 3812.798,
 			"districtCourts": [{
-				"number": "205",
+				"districtNumber": "205",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "394",
+				"districtNumber": "394",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -110155,11 +109610,11 @@
 			"lsad": "County",
 			"censusArea": 1503.259,
 			"districtCourts": [{
-				"number": "069",
+				"districtNumber": "069",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -110258,17 +109713,12 @@
 			"lsad": "County",
 			"censusArea": 900.306,
 			"districtCourts": [{
-				"number": "106",
+				"districtNumber": "106",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -110356,11 +109806,11 @@
 			"lsad": "County",
 			"censusArea": 1496.868,
 			"districtCourts": [{
-				"number": "222",
+				"districtNumber": "222",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -110469,35 +109919,35 @@
 			"lsad": "County",
 			"censusArea": 878.432,
 			"districtCourts": [{
-				"number": "016",
+				"districtNumber": "016",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "158",
+				"districtNumber": "158",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "211",
+				"districtNumber": "211",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "362",
+				"districtNumber": "362",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "367",
+				"districtNumber": "367",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "393",
+				"districtNumber": "393",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "431",
+				"districtNumber": "431",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -110960,19 +110410,19 @@
 			"lsad": "County",
 			"censusArea": 908.975,
 			"districtCourts": [{
-				"number": "024",
+				"districtNumber": "024",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "135",
+				"districtNumber": "135",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "267",
+				"districtNumber": "267",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -111187,19 +110637,19 @@
 			"lsad": "County",
 			"censusArea": 888.15,
 			"districtCourts": [{
-				"number": "021",
+				"districtNumber": "021",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "335",
+				"districtNumber": "335",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "423",
+				"districtNumber": "423",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -111410,27 +110860,27 @@
 			"lsad": "County",
 			"censusArea": 1051.016,
 			"districtCourts": [{
-				"number": "027",
+				"districtNumber": "027",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "146",
+				"districtNumber": "146",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "169",
+				"districtNumber": "169",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "264",
+				"districtNumber": "264",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "426",
+				"districtNumber": "426",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -111671,15 +111121,15 @@
 			"lsad": "County",
 			"censusArea": 709.251,
 			"districtCourts": [{
-				"number": "033",
+				"districtNumber": "033",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "424",
+				"districtNumber": "424",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -111796,17 +111246,12 @@
 			"lsad": "County",
 			"censusArea": 897.443,
 			"districtCourts": [{
-				"number": "132",
+				"districtNumber": "132",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -111886,17 +111331,12 @@
 			"lsad": "County",
 			"censusArea": 6183.733,
 			"districtCourts": [{
-				"number": "394",
+				"districtNumber": "394",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -112348,11 +111788,11 @@
 			"lsad": "County",
 			"censusArea": 900.001,
 			"districtCourts": [{
-				"number": "110",
+				"districtNumber": "110",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -112445,11 +111885,11 @@
 			"lsad": "County",
 			"censusArea": 943.364,
 			"districtCourts": [{
-				"number": "079",
+				"districtNumber": "079",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -112572,17 +112012,12 @@
 			"lsad": "County",
 			"censusArea": 944.433,
 			"districtCourts": [{
-				"number": "035",
+				"districtNumber": "035",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -112902,15 +112337,15 @@
 			"lsad": "County",
 			"censusArea": 994.258,
 			"districtCourts": [{
-				"number": "033",
+				"districtNumber": "033",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "424",
+				"districtNumber": "424",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -113485,17 +112920,12 @@
 			"lsad": "County",
 			"censusArea": 899.372,
 			"districtCourts": [{
-				"number": "042",
+				"districtNumber": "042",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -113635,11 +113065,11 @@
 			"lsad": "County",
 			"censusArea": 920.22,
 			"districtCourts": [{
-				"number": "100",
+				"districtNumber": "100",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -113740,15 +113170,15 @@
 			"lsad": "County",
 			"censusArea": 894.434,
 			"districtCourts": [{
-				"number": "064",
+				"districtNumber": "064",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "242",
+				"districtNumber": "242",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -113853,11 +113283,11 @@
 			"lsad": "County",
 			"censusArea": 696.405,
 			"districtCourts": [{
-				"number": "100",
+				"districtNumber": "100",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -113942,11 +113372,11 @@
 			"lsad": "County",
 			"censusArea": 1088.721,
 			"districtCourts": [{
-				"number": "097",
+				"districtNumber": "097",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "2",
+				"districtNumber": "2",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -114307,11 +113737,11 @@
 			"lsad": "County",
 			"censusArea": 911.47,
 			"districtCourts": [{
-				"number": "051",
+				"districtNumber": "051",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -114412,49 +113842,44 @@
 			"lsad": "County",
 			"censusArea": 841.225,
 			"districtCourts": [{
-				"number": "199",
+				"districtNumber": "199",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "219",
+				"districtNumber": "219",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "296",
+				"districtNumber": "296",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "366",
+				"districtNumber": "366",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "380",
+				"districtNumber": "380",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "401",
+				"districtNumber": "401",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "416",
+				"districtNumber": "416",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "417",
+				"districtNumber": "417",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "429",
+				"districtNumber": "429",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "5",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "5",
-				"effective": "2005-09-01"
+				"districtNumber": "5",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -114974,11 +114399,11 @@
 			"lsad": "County",
 			"censusArea": 918.441,
 			"districtCourts": [{
-				"number": "100",
+				"districtNumber": "100",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -115065,36 +114490,16 @@
 			"lsad": "County",
 			"censusArea": 960.274,
 			"districtCourts": [{
-				"number": "025",
+				"districtNumber": "025",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
+				"districtNumber": "1",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "1",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2005-09-01"
+				"districtNumber": "14",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -115674,17 +115079,12 @@
 			"lsad": "County",
 			"censusArea": 937.754,
 			"districtCourts": [{
-				"number": "220",
+				"districtNumber": "220",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -115892,11 +115292,11 @@
 			"lsad": "County",
 			"censusArea": 983.799,
 			"districtCourts": [{
-				"number": "119",
+				"districtNumber": "119",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -116163,11 +115563,11 @@
 			"lsad": "County",
 			"censusArea": 926.886,
 			"districtCourts": [{
-				"number": "100",
+				"districtNumber": "100",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -116272,11 +115672,11 @@
 			"lsad": "County",
 			"censusArea": 1793.481,
 			"districtCourts": [{
-				"number": "229",
+				"districtNumber": "229",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -116433,17 +115833,12 @@
 			"lsad": "County",
 			"censusArea": 926.491,
 			"districtCourts": [{
-				"number": "091",
+				"districtNumber": "091",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -116631,11 +116026,11 @@
 			"lsad": "County",
 			"censusArea": 2117.858,
 			"districtCourts": [{
-				"number": "198",
+				"districtNumber": "198",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -117000,77 +116395,72 @@
 			"lsad": "County",
 			"censusArea": 1012.693,
 			"districtCourts": [{
-				"number": "034",
+				"districtNumber": "034",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "041",
+				"districtNumber": "041",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "065",
+				"districtNumber": "065",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "120",
+				"districtNumber": "120",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "168",
+				"districtNumber": "168",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "171",
+				"districtNumber": "171",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "205",
+				"districtNumber": "205",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "210",
+				"districtNumber": "210",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "243",
+				"districtNumber": "243",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "327",
+				"districtNumber": "327",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "346",
+				"districtNumber": "346",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "383",
+				"districtNumber": "383",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "384",
+				"districtNumber": "384",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "388",
+				"districtNumber": "388",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "409",
+				"districtNumber": "409",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "448",
+				"districtNumber": "448",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -117548,17 +116938,12 @@
 			"lsad": "County",
 			"censusArea": 1083.071,
 			"districtCourts": [{
-				"number": "266",
+				"districtNumber": "266",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -117768,17 +117153,12 @@
 			"lsad": "County",
 			"censusArea": 765.483,
 			"districtCourts": [{
-				"number": "082",
+				"districtNumber": "082",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -117936,11 +117316,11 @@
 			"lsad": "County",
 			"censusArea": 890.837,
 			"districtCourts": [{
-				"number": "336",
+				"districtNumber": "336",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -118343,11 +117723,11 @@
 			"lsad": "County",
 			"censusArea": 950.008,
 			"districtCourts": [{
-				"number": "155",
+				"districtNumber": "155",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "3",
+				"districtNumber": "3",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -118560,17 +117940,12 @@
 			"lsad": "County",
 			"censusArea": 898.941,
 			"districtCourts": [{
-				"number": "032",
+				"districtNumber": "032",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "11",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "11",
-				"effective": "2005-09-01"
+				"districtNumber": "11",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -118692,15 +118067,15 @@
 			"lsad": "County",
 			"censusArea": 284.391,
 			"districtCourts": [{
-				"number": "008",
+				"districtNumber": "008",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "062",
+				"districtNumber": "062",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "6",
+				"districtNumber": "6",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -119161,15 +118536,15 @@
 			"lsad": "County",
 			"censusArea": 1133.5,
 			"districtCourts": [{
-				"number": "081",
+				"districtNumber": "081",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "218",
+				"districtNumber": "218",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -119286,16 +118661,16 @@
 			"lsad": "County",
 			"censusArea": 1502.375,
 			"districtCourts": [{
-				"number": "106",
+				"districtNumber": "106",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
+				"districtNumber": "8",
 				"effective": "1987-09-01",
 				"repealed": "2005-09-01"
 			},
 			{
-				"number": "11",
+				"districtNumber": "11",
 				"effective": "2005-09-01"
 			}]
 		},
@@ -119448,11 +118823,11 @@
 			"lsad": "County",
 			"censusArea": 893.412,
 			"districtCourts": [{
-				"number": "106",
+				"districtNumber": "106",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -119557,11 +118932,11 @@
 			"lsad": "County",
 			"censusArea": 1058.214,
 			"districtCourts": [{
-				"number": "216",
+				"districtNumber": "216",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -119686,11 +119061,11 @@
 			"lsad": "County",
 			"censusArea": 1066.688,
 			"districtCourts": [{
-				"number": "025",
+				"districtNumber": "025",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -119915,15 +119290,15 @@
 			"lsad": "County",
 			"censusArea": 925.974,
 			"districtCourts": [{
-				"number": "031",
+				"districtNumber": "031",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "223",
+				"districtNumber": "223",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "7",
+				"districtNumber": "7",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -120046,25 +119421,20 @@
 			"lsad": "County",
 			"censusArea": 932.804,
 			"districtCourts": [{
-				"number": "015",
+				"districtNumber": "015",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "059",
+				"districtNumber": "059",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "397",
+				"districtNumber": "397",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "5",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "5",
-				"effective": "2005-09-01"
+				"districtNumber": "5",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -120546,17 +119916,12 @@
 			"lsad": "County",
 			"censusArea": 855.683,
 			"districtCourts": [{
-				"number": "082",
+				"districtNumber": "082",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -121596,40 +120961,20 @@
 			"lsad": "County",
 			"censusArea": 603.954,
 			"districtCourts": [{
-				"number": "021",
+				"districtNumber": "021",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "335",
+				"districtNumber": "335",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "1",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
+				"districtNumber": "1",
+				"effective": "1987-09-01"
 			},
 			{
-				"number": "1",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "1",
-				"effective": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "1987-09-01",
-				"repealed": "2003-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2003-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "14",
-				"effective": "2005-09-01"
+				"districtNumber": "14",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -122891,21 +122236,16 @@
 			"lsad": "County",
 			"censusArea": 935.487,
 			"districtCourts": [{
-				"number": "040",
+				"districtNumber": "040",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "378",
+				"districtNumber": "378",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "10",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "10",
-				"effective": "2005-09-01"
+				"districtNumber": "10",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -123535,39 +122875,39 @@
 			"lsad": "County",
 			"censusArea": 890.922,
 			"districtCourts": [{
-				"number": "103",
+				"districtNumber": "103",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "107",
+				"districtNumber": "107",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "138",
+				"districtNumber": "138",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "197",
+				"districtNumber": "197",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "357",
+				"districtNumber": "357",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "404",
+				"districtNumber": "404",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "444",
+				"districtNumber": "444",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "445",
+				"districtNumber": "445",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "13",
+				"districtNumber": "13",
 				"effective": "1987-09-01"
 			}]
 		},
@@ -124316,17 +123656,12 @@
 			"lsad": "County",
 			"censusArea": 2635.375,
 			"districtCourts": [{
-				"number": "143",
+				"districtNumber": "143",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "8",
-				"effective": "1987-09-01",
-				"repealed": "2005-09-01"
-			},
-			{
-				"number": "8",
-				"effective": "2005-09-01"
+				"districtNumber": "8",
+				"effective": "1987-09-01"
 			}]
 		},
 		"geometry": {
@@ -125960,15 +125295,15 @@
 			"lsad": "County",
 			"censusArea": 711.3,
 			"districtCourts": [{
-				"number": "025",
+				"districtNumber": "025",
 				"effective": "2012-01-01"
 			},
 			{
-				"number": "274",
+				"districtNumber": "274",
 				"effective": "2012-01-01"
 			}],
 			"appellateCourts": [{
-				"number": "4",
+				"districtNumber": "4",
 				"effective": "1987-09-01"
 			}]
 		},
