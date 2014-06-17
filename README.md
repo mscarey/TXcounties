@@ -11,25 +11,25 @@ TXCountiesDistricts.json is GeoJSON of Texas counties with tags showing membersh
 Sources
 -----------
 
-*county GeoJSON*
+**county GeoJSON**
 
-http://eric.clst.org/Stuff/USGeoJSON.
+* http://eric.clst.org/Stuff/USGeoJSON.
 
-*TX district courts*
+**TX district courts**
 
-http://www.courts.state.tx.us/courts/pdf/sdc2009.pdf
+* http://www.courts.state.tx.us/courts/pdf/sdc2009.pdf
 
-*Appellate districts*
+**Appellate districts**
 
-Current statute
+Current statute:
 
-Tex. Gov't. Code section 22.201  
+* Tex. Gov't. Code section 22.201  
 
-Past codified statutes
+Past codified statutes:
 
-http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB00988F.htm
-http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB02261F.htm
-http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB03306F.htm
-http://www.legis.state.tx.us/tlodocs/79R/billtext/html/HB01077F.htm
+* http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB00988F.htm
+* http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB02261F.htm
+* http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB03306F.htm
+* http://www.legis.state.tx.us/tlodocs/79R/billtext/html/HB01077F.htm
 
 Past uncodified bills searchable at http://www.lrl.state.tx.us/legis/billsearch/lrlhome.cfm
