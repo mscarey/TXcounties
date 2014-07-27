@@ -17,17 +17,11 @@ Sources
 
 * http://eric.clst.org/Stuff/USGeoJSON
 
-=======
-*county GeoJSON*
-
-http://eric.clst.org/Stuff/USGeoJSON.
->>>>>>> parent of 60cdd19... readme
-
-*TX district courts*
+**TX district courts**
 
 http://www.courts.state.tx.us/courts/pdf/sdc2009.pdf
 
-*Appellate districts*
+**Appellate districts**
 
 Current statute
 
