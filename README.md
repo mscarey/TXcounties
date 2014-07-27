@@ -1,19 +1,21 @@
 TXcounties
 ==========
 
-TXCourtsOfAppeals.json should show, for each Texas appellate judicial district, every time a statute changed the configuration of counties within that district, the statute citation, the list of counties, and the effective date. It should be mostly correct.
+TXCourtsOfAppeals.json should show, for each Texas appellate judicial district, every time a statute changed the configuration of counties within that district, the statute citation, the list of counties, and the effective date. It should be mostly correct. In addition to the 254 extant Texas counties, the dataset mentions four defunct counties: Buchel, Encinal, Foley, and Greer.
 
-In addition to the 254 extant Texas counties, the dataset mentions four defunct counties: Buchel, Encinal, Foley, and Greer.
+TXHistoricalCounties.geojson is data from the [Atlas of Historical County Boundaries](http://publications.newberry.org/ahcbp/downloads/states.html) converted to GeoJSON. Boundaries which were outdated by 1892-08-15 are excluded.
 
-TXCountiesDistricts.json is GeoJSON of Texas counties with tags showing membership in judicial districts (district and appellate courts). Intended for making data visualisations. Not ready to use.
+TXCountiesDistricts.json is also GeoJSON, but it combines map data with district membership in the same file. It's the only file here that includes trial-level judicial districts. It's incomplete.
 
 
 Sources
 -----------
 
-**county GeoJSON**
+**County GeoJSON**
 
-* http://eric.clst.org/Stuff/USGeoJSON.
+* [Atlas of Historical County Boundaries](http://publications.newberry.org/ahcbp/downloads/states.html), The Newberry Library, Dr. William M. Scholl Center for American History and Culture
+
+* http://eric.clst.org/Stuff/USGeoJSON
 
 **TX district courts**
 
