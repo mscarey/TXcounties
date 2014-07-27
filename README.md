@@ -11,12 +11,12 @@ TXCountiesDistricts.json is also GeoJSON, but it combines map data with district
 Sources
 -----------
 
-<<<<<<< HEAD
 **County GeoJSON**
 
 * [Atlas of Historical County Boundaries](http://publications.newberry.org/ahcbp/downloads/states.html), The Newberry Library, Dr. William M. Scholl Center for American History and Culture
 
 * http://eric.clst.org/Stuff/USGeoJSON
+
 =======
 *county GeoJSON*
 
