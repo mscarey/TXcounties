@@ -11,27 +11,33 @@ TXCountiesDistricts.json is also GeoJSON, but it combines map data with district
 Sources
 -----------
 
+<<<<<<< HEAD
 **County GeoJSON**
 
 * [Atlas of Historical County Boundaries](http://publications.newberry.org/ahcbp/downloads/states.html), The Newberry Library, Dr. William M. Scholl Center for American History and Culture
 
 * http://eric.clst.org/Stuff/USGeoJSON
+=======
+*county GeoJSON*
 
-**TX district courts**
+http://eric.clst.org/Stuff/USGeoJSON.
+>>>>>>> parent of 60cdd19... readme
 
-* http://www.courts.state.tx.us/courts/pdf/sdc2009.pdf
+*TX district courts*
 
-**Appellate districts**
+http://www.courts.state.tx.us/courts/pdf/sdc2009.pdf
 
-Current statute:
+*Appellate districts*
 
-* Tex. Gov't. Code section 22.201  
+Current statute
 
-Past codified statutes:
+Tex. Gov't. Code section 22.201  
 
-* http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB00988F.htm
-* http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB02261F.htm
-* http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB03306F.htm
-* http://www.legis.state.tx.us/tlodocs/79R/billtext/html/HB01077F.htm
+Past codified statutes
+
+http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB00988F.htm
+http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB02261F.htm
+http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB03306F.htm
+http://www.legis.state.tx.us/tlodocs/79R/billtext/html/HB01077F.htm
 
 Past uncodified bills searchable at http://www.lrl.state.tx.us/legis/billsearch/lrlhome.cfm
