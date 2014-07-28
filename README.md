@@ -1,4 +1,4 @@
-TXcounties
+TXdistricts
 ==========
 
 TXCourtsOfAppeals.json should show, for each Texas appellate judicial district, every time a statute changed the configuration of counties within that district, the statute citation, the list of counties, and the effective date. It should be mostly correct. In addition to the 254 extant Texas counties, the dataset mentions four defunct counties: Buchel, Encinal, Foley, and Greer.
